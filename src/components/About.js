@@ -15,7 +15,7 @@ function About() {
           
           <div class="col-sm-6 shadow-lg p-1 mb-1 bg-white">
             <img
-              class="rounded-circle col-md-12 "
+              class=" col-md-12 "
               src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/133515411_2901941880029508_174536494781446050_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=1My55PKtyS0AX-rUGPi&tn=TxyqeLy8NatzAtC5&_nc_ht=scontent-lax3-1.xx&oh=00_AT8Tdc0LexMb4TjUvH6vYqp_-HmHXmJDtcp7iDq7gnsP6A&oe=63076FB4"
               alt="Daddy and V"
             />
