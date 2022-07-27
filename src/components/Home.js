@@ -5,7 +5,7 @@ function Home() {
     <div className="home">
       <div class="container">
         <div class="row align-items-center my-5">
-          <div class="col-md-7 shadow-lg p-2 mb-4 bg-white">
+          <div class="col-md-7 shadow-lg p-2 mb-4 bg-grey">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
               src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/44972081_1824995524279836_3745263644489809920_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=naGqf5cD4uEAX-4sNEH&_nc_ht=scontent-lax3-1.xx&oh=00_AT-DjqG-bos7UTDC6VkhqEUrOn7-ERumGLGgyGHopn6s2Q&oe=63058C3B"
