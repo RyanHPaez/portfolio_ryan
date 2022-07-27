@@ -5,7 +5,7 @@ function Home() {
     <div className="home">
       <div class="container">
         <div class="row align-items-center my-5">
-          <div class="col-lg-7">
+          <div class="col-lg-5">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
               src="http://placehold.it/900x400"
@@ -13,7 +13,7 @@ function Home() {
             />
           </div>
           <div class="col-lg-5">
-            <h1 class="font-weight-light">Home</h1>
+            <h1 class="font-weight-light">Hi, My name is Ryan</h1>
             <p>
              
             </p>
