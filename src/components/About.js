@@ -18,10 +18,9 @@ function About() {
             Languages & Tools:
 			</p>
       <p>JavaScript (React & Redux)</p>
-            <p>TypeScript</p>
+      <p>TypeScript</p>
       <p>Node.js</p>
       <p>HTML & CSS</p>
-      <p></p>
       <p>SASS</p>
       <p>GitHub</p>
       <p>GitBash</p>
@@ -31,7 +30,7 @@ function About() {
       <p>Heroku</p>
       <p>Django</p>
       <p>Cybersecurity</p>
-            <p>Databases: MongoDB, PostgreSQL, SQL</p>
+      <p>Databases: MongoDB, PostgreSQL, SQL</p>
             
             <h5>I have a GitHub with over 100 Repositories</h5>
             <a href={"https://github.com/RyanHPaez?tab=repositories"}><h4>Check them out!</h4></a>
