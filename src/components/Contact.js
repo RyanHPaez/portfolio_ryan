@@ -7,7 +7,7 @@ function Contact() {
         <div class="row align-items-center my-5">
           <div class="col-sm-6">
             <img
-              class="rounded-circle float-right row align-items-center my-5"
+              class="rounded-circle  row align-items-center my-5"
               src="https://media-exp1.licdn.com/dms/image/C4E03AQGV7LQ_7Q-aTw/profile-displayphoto-shrink_200_200/0/1591653389941?e=1664409600&v=beta&t=2-YMs4gXbovh9xjD3JDmEMOisp1yCsQDQZ9gccZmFEY"
               alt="me"
               width='220px'
