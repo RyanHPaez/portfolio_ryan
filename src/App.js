@@ -2,7 +2,7 @@ import React from "react";
 import "./index.css";
 
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import {  Navigation,  Home,  About,  Contact} from "./components";
+import {  Navigation,  Footer,  Home,  About,  Contact} from "./components";
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
      
       
     </Routes>
-    {/* <Footer /> */}
+    <Footer />
   </Router>
     </div>
   );
