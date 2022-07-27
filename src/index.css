@@ -1,1 +1,5 @@
-body {background-color: rgb(210, 238, 248);}
+body {
+background-image: radial-gradient(white, rgb(212, 212, 212), lightblue);
+width: 100vw;
+height: 100vh;
+}
