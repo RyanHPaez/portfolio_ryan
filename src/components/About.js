@@ -25,7 +25,7 @@ function About() {
           <div class="col-lg-5">
             <h1 class="font-weight-light">About Me</h1>
             <p>
-                I am father of two perfect children and a husband to the best wife in the world. I am currently working as a Aircraft Mechanic at Western Jet Aviation in Van Nuys, CA. I love staying busy and focused. I have amazing drive and am persistent. When I found coding I learned that it fits into what I am a natural at. Never giving up! And I find constanly being challenged is something I love to do. I see my future as being happy and thankful for always wanting to do better.   
+                I am father of two perfect children and a husband to the best wife in the world. I am currently working as a Aircraft Mechanic at Western Jet Aviation in Van Nuys, CA. I love staying busy and focused. I have amazing drive and am persistent. When I found coding I learned that it fits into what I am a natural at. Never giving up! Constantly being challenged is something I love. I see my future as being happy and thankful for always wanting to do better.   
             </p>
             <p>- Ryan Paez</p>
           </div>
