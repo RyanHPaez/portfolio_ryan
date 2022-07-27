@@ -18,13 +18,13 @@ function Navigation() {
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/about">
-                  About
+                <NavLink className="nav-link" to="/skills">
+                Go To My Github
                 </NavLink>
               </li>
               <li className="nav-item">
                 <NavLink className="nav-link" to="/contact">
-                  Contact
+                Send Me A Job Offer
                 </NavLink>
               </li>              
             </ul>
