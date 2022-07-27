@@ -4,40 +4,29 @@ function About() {
   return (
     <div className="about">
       <div class="container">
-        <div class="row align-items-center my-5">
-          <div class="col-md-8">
-            <img
-              class="rounded-circle col-md-8 offset-md-0"
-              src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/133515411_2901941880029508_174536494781446050_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=1My55PKtyS0AX-rUGPi&tn=TxyqeLy8NatzAtC5&_nc_ht=scontent-lax3-1.xx&oh=00_AT8Tdc0LexMb4TjUvH6vYqp_-HmHXmJDtcp7iDq7gnsP6A&oe=63076FB4"
-              alt="Daddy and V"
-            />
-          </div>
-          <div class="row-md-6">
-            <h1 class="font-weight-light">My Skills</h1>
-            <p>Languages & Tools:</p>
-            <p>JavaScript (React & Redux)</p>
-            <p>TypeScript</p>
-            <p>Node.js</p>
-            <p>HTML & CSS</p>
-            <p>SASS</p>
-            <p>GitHub</p>
-            <p>GitBash</p>
-            <p>Devtools</p>
-            <p>Python</p>
-            <p>AWS</p>
-            <p>Heroku</p>
-            <p>Django</p>
-            <p>Cybersecurity</p>
-            <p>Databases: MongoDB, PostgreSQL, SQL</p>
-          </div>
-          <div class="col-lg-8 offset-md-6">
-            <div class="col-sm-8 offset-md-2">
+        <div class="row align-items-center my-4">
+        <div class="col-md-7 float-right ">
+            
             <h5>I have a GitHub with over 100 Repositories</h5>
             <a href={"https://github.com/RyanHPaez?tab=repositories"}>
               <h4>Check them out!</h4>
             </a>
           </div>
+          
+          <div class="col-md-5">
+            <img
+              class="rounded-circle col-md-12 "
+              src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/133515411_2901941880029508_174536494781446050_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=1My55PKtyS0AX-rUGPi&tn=TxyqeLy8NatzAtC5&_nc_ht=scontent-lax3-1.xx&oh=00_AT8Tdc0LexMb4TjUvH6vYqp_-HmHXmJDtcp7iDq7gnsP6A&oe=63076FB4"
+              alt="Daddy and V"
+            />
+          </div></div>
+          <div class="col-md-12">
+            <h1 class="font-weight-light">My Skills</h1>
+            <p>Languages & Tools:</p>
+            <p>JavaScript (React & Redux), TypeScript, Node.js, HTML & CSS, SASS, GitHub, GitBash, Devtools, Python, AWS, Heroku, Django, Cybersecurity, Databases: MongoDB, PostgreSQL, SQL</p>
+            
           </div>
+          
           <div class="col-md-12">
             <h1 class="font-weight-light">About Me</h1>
             <p>
@@ -53,7 +42,7 @@ function About() {
             <p>- Ryan Paez</p>
           </div>
           
-        </div>
+        
       </div>
     </div>
   );
