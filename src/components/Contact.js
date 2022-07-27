@@ -15,7 +15,7 @@ function Contact() {
               position= "fixed"
             />
           </div>
-          <div class="col-sm-3">
+          <div class="col-sm-6">
             <h1 class="font-weight-light">Contact</h1>
             
      <p>Ryan Paez:</p>
