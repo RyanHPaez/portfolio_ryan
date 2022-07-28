@@ -12,13 +12,13 @@ function Home() {
               alt="me"
             />
           </div>
-          <div class="col-sm-4">
-            <h1 class="font-weight-light">Hi, My name is Ryan</h1>
+          <div class="col-sm-5 ml-5 my-5">
+            <h1 class="font-weight-light ">Hi, My name is Ryan</h1>
             <p>
              Ready for my next journey in life to start as a Full Stack Developer!
             </p>
           </div>
-          <div class="col-sm-12">
+          <div class="col-sm-12 my-5">
           <h1 class="font-weight-light">About Me</h1>
           <p>
             I am father of two perfect children and a husband to the best wife
