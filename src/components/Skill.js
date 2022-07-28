@@ -5,12 +5,12 @@ function Skill() {
     <div className="skill">
       <div class="container">
         <div class="row align-items-center my-4">
-          <div class="col-sm-6 pl-4">
+          <div class="col-sm-6 pl-4 my-5">
             <h5>I have a GitHub with over 100 Repositories</h5>
             <a href={"https://github.com/RyanHPaez?tab=repositories"}>
               <h4>Check them out!</h4>
             </a>
-            <div class="col-sm-6 my-5">
+            <div class="col-sm-10 my-5">
               <h1 class="font-weight-light">My Skills</h1>
               <p>Languages & Tools:</p>
               <p>

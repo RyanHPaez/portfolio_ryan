@@ -18,7 +18,7 @@ function Home() {
              Ready for my next journey in life to start as a Full Stack Developer!
             </p>
           </div>
-          <div class="col-sm-12 my-5">
+          <div class="col-sm-12 my-4">
           <h1 class="font-weight-light">About Me</h1>
           <p>
             I am father of two perfect children and a husband to the best wife

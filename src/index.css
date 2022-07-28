@@ -61,6 +61,7 @@ img{
 .p{
     height: 350px;
     flex-grow:1;
-    float: right;
+    margin-left: 220px;
+    /* float: right; */
      
 }
