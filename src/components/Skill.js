@@ -11,14 +11,14 @@ function Skill() {
               <h4>Check them out!</h4>
             </a>
             <div class="col-sm-6 my-5">
-          <h1 class="font-weight-light">My Skills</h1>
-          <p>Languages & Tools:</p>
-          <p>
-            JavaScript (React & Redux), TypeScript, Node.js, HTML & CSS, SASS,
-            GitHub, GitBash, Devtools, Python, AWS, Heroku, Django,
-            Cybersecurity, Databases: MongoDB, PostgreSQL, SQL
-          </p>
-        </div>
+              <h1 class="font-weight-light">My Skills</h1>
+              <p>Languages & Tools:</p>
+              <p>
+                JavaScript (React & Redux), TypeScript, Node.js, HTML & CSS,
+                SASS, GitHub, GitBash, Devtools, Python, AWS, Heroku, Django,
+                Cybersecurity, Databases: MongoDB, PostgreSQL, SQL
+              </p>
+            </div>
           </div>
           <div class="col-sm-6 shadow-lg p-1 mb-1 ml- bg-radial-gradient(white, rgb(230, 229, 229), lightblue">
             <img
@@ -27,10 +27,7 @@ function Skill() {
               alt="Daddy and V"
             />
           </div>
-        
-       </div>
-
-        
+        </div>
       </div>
     </div>
   );

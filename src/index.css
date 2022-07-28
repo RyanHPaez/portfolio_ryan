@@ -5,8 +5,8 @@ display: flex;
 }
 
 #root {
-    flex-grow:1;
-    display: flex;
+    flex-grow: 1;
+    display:flow-root;
     justify-content: center;
     align-items: center;
 }
@@ -27,3 +27,16 @@ display: flex;
 li {
     padding:10px
   }
+
+.App{
+   
+    height: 100vh;
+}
+
+.contact{
+    width: 80%;
+    align-items: center;
+    flex-grow:1;
+    display: flex;
+    justify-content: center;
+}
