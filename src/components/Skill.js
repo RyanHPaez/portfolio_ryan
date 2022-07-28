@@ -20,14 +20,12 @@ function Skill() {
               </p>
             </div>
           </div>
-          <div class= '"image" col-sm-6 shadow-lg p-0 mb-0'>
-          
+          <div class= 'col-sm-6 '>          
             <img
-              class="col-sm-12"
+              class='p'
               src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/133515411_2901941880029508_174536494781446050_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=1My55PKtyS0AX-rUGPi&tn=TxyqeLy8NatzAtC5&_nc_ht=scontent-lax3-1.xx&oh=00_AT8Tdc0LexMb4TjUvH6vYqp_-HmHXmJDtcp7iDq7gnsP6A&oe=63076FB4"
               alt="Daddy and V"
-            />
-          
+            />          
           </div>
         </div>
       </div>
