@@ -1,9 +1,15 @@
 body {
 background-image: radial-gradient(white, rgb(230, 229, 229), lightblue);
-width: 100vw;
-height: 100vh;
+min-height: 100vh;
+display: flex;
 }
 
+#root {
+    flex-grow:1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .rounded-circle {
     display: block;
     margin-left: auto;
