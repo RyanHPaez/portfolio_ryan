@@ -1,3 +1,45 @@
+# Title and Formatting 
+Portfolio_Ryan made with javascript and React. then converted to Typescript.
+
+## Description
+This application uses a root at it html that passes to the index.tsx file. the index.tsx is rendering a <App /> function that is imported from the App.tsx file. The App.tsx file is using 3 paths through the components files that is being through the Navigation.tsx file as a function that navigates the pages when clicked. The images were selected through a actual URL.
+
+### Demo 
+https://ryanpaezportfolio.herokuapp.com/
+
+#### Technologies
+"@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^28.1.6",
+    "@types/lodash": "^4.14.182",
+    "nodemon": "^2.0.19",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^5.0.1",
+    "source-map-loader": "^4.0.0",
+    "ts-loader": "^9.3.1",
+    "web-vitals": "^2.1.4",
+    "webpack": "^5.74.0"
+
+##### Issues
+If issue occurs, it is likely because of the conversion of typescript. The biggest issue was to find where the home page was to when npm start. Under package.json "homepage": "https://github.com". I was not set initially set up with this route and took me a while to figure out why is is using https:// vs src <App />. I still do not know exactly why because it started doing this when TypeScript was injected.
+
+###### API
+No API's were needed for the profile page. Just wanted to do a little FrontEnd with CSS.
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
