@@ -1,8 +1,7 @@
-import React from "react";
 import "./index.css";
-
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { Navigation, Home, Skill, Contact } from "./components";
+import React from "react";
 
 function App() {
   return (
