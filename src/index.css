@@ -59,6 +59,17 @@ img {
     height: 100%;
     width: auto;
 }
+img:hover {
+    height: 300px;
+    width: auto;
+    position:relative;
+   
+    bottom: 600px;
+    opacity: 5;
+    bottom: 1%;
+    /* z-index: 99; */
+    box-shadow: 0 0 10px 10px rgb(163, 255, 3);
+}
 
 .p {
     height: 350px;

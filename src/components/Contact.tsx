@@ -6,18 +6,17 @@ function Contact() {
       <div className="container">
         <div className="row align-items-center">
           <div className="col-sm-12 shadow-lg p-1 mb-1">
+          <a href={"https://www.linkedin.com/in/ryan-paez/"}>
             <img
               className="rounded-circle my-3"
               src="https://media-exp1.licdn.com/dms/image/C4E03AQGV7LQ_7Q-aTw/profile-displayphoto-shrink_200_200/0/1591653389941?e=1664409600&v=beta&t=2-YMs4gXbovh9xjD3JDmEMOisp1yCsQDQZ9gccZmFEY"
-              alt="me"
-            />
+              alt="me"              
+            /></a>
             <div className="col-sm-12">
-              <h1 className="font-weight-light text-center">Contact</h1>
-              <p className="text-center">Ryan Paez:</p>
+              <h1 className="font-weight-light text-center">Contact Me through LinkedIn</h1>
+              <p className="text-center">Ryan Paez</p>
               <div className="text-center">
-                <a href={"https://www.linkedin.com/in/ryan-paez/"}>
-                  Click here to go to my LinkedIn
-                </a>
+                
               </div>
             </div>
           </div>
