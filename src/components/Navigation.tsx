@@ -4,8 +4,8 @@ import { NavLink } from "react-router-dom";
 function Navigation() {
   return (
     <div className="navigation">
-      <nav className="navbar navbar-expand navbar-dark bg-dark">
-        <div className="container">
+      <nav className="navbar align-items navbar-expand navbar-dark bg-dark">
+        <div className="container row">
           <NavLink className="navbar-brand" to="/">
             Ryan's Portfolio
           </NavLink>
@@ -13,20 +13,23 @@ function Navigation() {
             <ul className="navbar-nav ml-auto">
               <li className="nav-item">
                 <NavLink className="nav-link" to="/">
-                  Home
+                  <i className="fas fa-home" style={{ fontSize: "18px" }}></i>
                   <span className="sr-only">(current)</span>
                 </NavLink>
               </li>
               <li className="nav-item">
                 <NavLink className="nav-link" to="/skills">
-                Go To My Github
+                  <i className="fab fa-github" style={{ fontSize: "18px" }}></i>
                 </NavLink>
               </li>
               <li className="nav-item">
                 <NavLink className="nav-link" to="/contact">
-                Send Me A Job Offer
+                  <i
+                    className="far fa-money-bill-alt"
+                    style={{ fontSize: "18px" }}
+                  ></i>
                 </NavLink>
-              </li>              
+              </li>
             </ul>
           </div>
         </div>

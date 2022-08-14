@@ -55,11 +55,19 @@ img {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    align-items: center;
+    /* align-items: center; */
+    height: 100%;
+    width: auto;
 }
 
 .p {
     height: 350px;
     flex-grow:1;   
-    float: right;     
+    float: right;
+    text-align: center;   
 }
+
+i {
+    color:rgb(228, 182, 18);
+    font-size: 14px;
+ }

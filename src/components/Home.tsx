@@ -12,29 +12,12 @@ function Home() {
               alt="me"
             />
           </div>
-          <div className="col-sm-5 ml-5 my-5">
+          <div className="col-sm-5  my-5 text-center text-justify">
             <h1 className="font-weight-light ">Hi, My name is Ryan</h1>
             <p>
               Ready for my next journey in life to start as a Full Stack
               Developer!
             </p>
-          </div>
-          <div className="col-sm-12 my-4">
-            <h1 className="font-weight-light">About Me</h1>
-            <p>
-              I am a father of two perfect children and a husband to the best
-              wife in the world. Currently working as a Aircraft Mechanic at
-              Western Jet Aviation in Van Nuys, CA. Love staying busy, focused
-              and challenged, being very persistent with amazing drive. An
-              excellent team player with a great personality, easy to talk to
-              and also known to be a genuine guy. Coding found me and I learned
-              that it fits into what I am a natural at. Never giving up! My
-              present and future is blessed with happiness that comes from
-              having a positive attitude. Proud of all accomplishments achieved
-              and future accomplishments that will be achieved. Wanting to
-              mature will always be a thing for me.
-            </p>
-            <p>- Ryan Paez</p>
           </div>
         </div>
       </div>
