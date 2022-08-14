@@ -13,7 +13,7 @@ function Home() {
             />
           </div>
           <div className="col-sm-5  my-5 text-center text-justify">
-            <h1 className="font-weight-light ">Hi, My name is Ryan</h1>
+            <h1 className="Hi font-weight-light ">Hi, My name is Ryan</h1>
             <p>
               Ready for my next journey in life to start as a Full Stack
               Developer! I am a hard worker and and always do my best toget the job done right.

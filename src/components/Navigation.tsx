@@ -6,8 +6,8 @@ function Navigation() {
     <div className="navigation">
       <nav className="navbar align-items navbar-expand navbar-dark bg-dark">
         <div className="container row">
-          <NavLink className="navbar-brand" to="/">
-            Ryan's Portfolio
+          <NavLink className="Ryan navbar-brand" to="/">
+            <i> Ryan's Portfolio</i>
           </NavLink>
           <div>
             <ul className="navbar-nav ml-auto">
