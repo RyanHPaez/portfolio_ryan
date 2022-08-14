@@ -12,7 +12,7 @@ function Home() {
               alt="me"
             />
           </div>
-          <div className="col-sm-5  my-5 text-center text-justify">
+          <div className="col-md-6  my-5 text-center text-justify">
             <h1 className="Hi font-weight-light ">Hi, My name is Ryan</h1>
             <p>
               Ready for my next journey in life to start as a Full Stack
