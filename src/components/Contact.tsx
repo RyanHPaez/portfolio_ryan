@@ -18,7 +18,6 @@ function Contact() {
               <h1 className="font-weight-light text-center">
                 Contact Me through LinkedIn
               </h1>
-              <p className="text-center">Ryan Paez</p>
               <div className="text-center"></div>
             </div>
           </div>
@@ -37,7 +36,7 @@ function Contact() {
               and future accomplishments that will be achieved. Wanting to
               mature will always be a thing for me.
             </p>
-            <p>- Ryan Paez</p>
+            <h5 className="font-weight-light text-center"> Ryan Paez</h5>
           </div>
         </div>
       </div>
