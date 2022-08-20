@@ -5,13 +5,8 @@ function Skill() {
     
       <div className="container">
         <div className="row">
-          <div className="col-sm-6  my-4 text-center">
-            <h5>I have a GitHub with over 100 Repositories</h5>
-            <a href={"https://github.com/RyanHPaez?tab=repositories"}>
-              <h4 text-justify>Check them out!</h4>
-            </a>
-            </div>
-            <div className="col-sm-6 my-4 text-center">
+          
+            <div className="col-sm-12 my-4 text-center">
               <h1 className="font-weight-light  ">My Skills</h1>
               <p>Languages & Tools:</p>
               <p>
@@ -35,6 +30,12 @@ function Skill() {
             </div>
             </div>  
             </div> 
+            <div className="col-sm-12  my-4 text-center">
+            <h5>I have a GitHub with over 100 Repositories</h5>
+            <a href={"https://github.com/RyanHPaez?tab=repositories"}>
+              <h4 text-justify>Check them out!</h4>
+            </a>
+            </div>
           </div>
           {/* <div className="container">
           <div className="row">
