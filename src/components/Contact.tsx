@@ -13,6 +13,7 @@ function Contact() {
                 alt="Linkedin photo"
               />
             </a>
+            <h5 className="font-weight-light text-center">Click me!</h5>
             <div className="col-sm-12">
               <h1 className="font-weight-light text-center">
                 Contact Me through LinkedIn
