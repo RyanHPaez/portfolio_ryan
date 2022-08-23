@@ -10,7 +10,10 @@ function Skill() {
           <p>
             JavaScript (React & Redux), TypeScript, Node.js, HTML & CSS, SASS,
             GitHub, GitBash, Devtools, Python, AWS, Heroku, Django,
-            Cybersecurity, Databases: MongoDB, PostgreSQL, SQL
+            Cybersecurity, 
+          </p>
+          <p>
+          Databases: MongoDB, PostgreSQL, SQL
           </p>
           <div className="col-sm-12  my-4 text-center">
           
