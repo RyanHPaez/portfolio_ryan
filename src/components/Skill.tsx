@@ -12,6 +12,19 @@ function Skill() {
             GitHub, GitBash, Devtools, Python, AWS, Heroku, Django,
             Cybersecurity, Databases: MongoDB, PostgreSQL, SQL
           </p>
+          <iframe
+            src="https://hikingforstars.herokuapp.com/">
+            </iframe>
+            <iframe
+            src="https://gamestorejar.herokuapp.com/">
+            </iframe>
+        </div>
+        <div className="col-sm-12  my-4 text-center">
+          <h5>I have a GitHub with over 100 Repositories</h5>
+          <a href={"https://github.com/RyanHPaez?tab=repositories"}>
+                        <h4 text-justify>Check them out!</h4>
+                                </a>
+                             
         </div>
         <div className="container">
           <div className="row">
@@ -26,15 +39,7 @@ function Skill() {
             </div>
           </div>
         </div>
-        <div className="col-sm-12  my-4 text-center">
-          <h5>I have a GitHub with over 100 Repositories</h5>
-          <a href={"https://github.com/RyanHPaez?tab=repositories"}>
-                        <h4 text-justify>Check them out!</h4>
-                        <iframe
-            src="https://github.com/RyanHPaez?tab=repositories">
-            </iframe>
-          </a>
-        </div>
+        
       </div>
     </div>
   );
