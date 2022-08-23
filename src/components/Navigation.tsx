@@ -3,9 +3,9 @@ import { NavLink } from "react-router-dom";
 
 function Navigation() {
   return (
-    <div className="navigation">
-      <nav className="navbar align-items navbar-expand navbar-dark bg-dark">
-        <div className="container row">
+    <div className="navigation ">
+      <nav className="navbar align-items navbar-expand navbar-dark bg-dark ">
+        <div className="container  ">
           <NavLink className="Ryan navbar-brand" to="/">
             <i> Ryan's Portfolio</i>
           </NavLink>

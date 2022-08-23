@@ -29,7 +29,10 @@ function Skill() {
         <div className="col-sm-12  my-4 text-center">
           <h5>I have a GitHub with over 100 Repositories</h5>
           <a href={"https://github.com/RyanHPaez?tab=repositories"}>
-            <h4 text-justify>Check them out!</h4>
+                        <h4 text-justify>Check them out!</h4>
+                        <iframe
+            src="https://github.com/RyanHPaez?tab=repositories">
+            </iframe>
           </a>
         </div>
       </div>
