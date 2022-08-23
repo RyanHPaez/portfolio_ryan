@@ -105,3 +105,7 @@ i:hover {
     color:rgb(163, 255, 3);
 }
 
+iframe{
+    margin-right:40px;
+    margin-left:40px;
+}

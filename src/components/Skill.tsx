@@ -12,12 +12,17 @@ function Skill() {
             GitHub, GitBash, Devtools, Python, AWS, Heroku, Django,
             Cybersecurity, Databases: MongoDB, PostgreSQL, SQL
           </p>
+          <div className="col-sm-12  my-4 text-center">
+          
           <iframe
             src="https://hikingforstars.herokuapp.com/">
             </iframe>
+            
             <iframe
             src="https://gamestorejar.herokuapp.com/">
             </iframe>
+            
+            </div>
         </div>
         <div className="col-sm-12  my-4 text-center">
           <h5>I have a GitHub with over 100 Repositories</h5>
