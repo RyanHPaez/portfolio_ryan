@@ -9,7 +9,7 @@ function Contact() {
             <a href={"https://www.linkedin.com/in/ryan-paez/"}>
               <img
                 className="rounded-circle my-3"
-                src="https://media-exp1.licdn.com/dms/image/C4E03AQGV7LQ_7Q-aTw/profile-displayphoto-shrink_200_200/0/1591653389941?e=1664409600&v=beta&t=2-YMs4gXbovh9xjD3JDmEMOisp1yCsQDQZ9gccZmFEY"
+                src="Me.jpg"
                 alt="Linkedin photo"
               />
             </a>
