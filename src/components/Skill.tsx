@@ -10,9 +10,9 @@ function Skill() {
             <div className="container">
       <div className="row">
         <div className="col-sm-12 my-4 text-center">
-          <h1 className="font-weight-light  ">My Skills</h1>
-          <p>Languages & Tools:</p>
-          
+          <h1 className="myskills font-weight-light  ">My Skills</h1>
+          <p className="myskills" >Languages & Tools:</p>
+          <p>
           JavaScript,
           
           React, 
@@ -44,20 +44,17 @@ function Skill() {
           Django,
             
           Cybersecurity
+          </p>
           <p>
           Databases: MongoDB, PostgreSQL, SQL
           </p>
-          {/* <div className="col-sm-12  my-4 text-center">
+          <div className="col-sm-12  text-center">
           
-          <iframe
-            src="https://hikingforstars.herokuapp.com/">
-            </iframe>
+       
             
-            <iframe
-            src="https://gamestorejar.herokuapp.com/">
-            </iframe>
+           
             
-            </div> */}
+            </div>
         </div>
         <div className="col-sm-12  my-4 text-center">
           <h5>I have a GitHub with over 100 Repositories</h5>

@@ -47,10 +47,21 @@ li {
 
 .resume {
     box-shadow: 0 0 10px 10px  rgb(171, 171, 171);
-    color:white
+    color:rgb(163, 255, 3);
+    text-shadow: 1px 1px 2px rgb(0, 85, 255), 0 0 1em rgb(171, 171, 171), 0 0 0.2em rgb(171, 171, 171);  
 }
 
+.col-sm-12  p{
+    color: white;
+}
+
+.about p {
+    color: white;
+}
 .navigation {
+    box-shadow: 0 0 10px 10px rgb(171, 171, 171);
+}
+.contact .container {
     box-shadow: 0 0 10px 10px rgb(171, 171, 171);
 }
 
@@ -116,6 +127,46 @@ i:hover {
     opacity: 1;
     transition: 500ms;
 } */
+
 i.fab fa-js-square{
     color:purple;
 }
+
+.about{
+    color:rgb(163, 255, 3);
+    text-shadow: 1px 1px 2px rgb(0, 85, 255), 0 0 1em rgb(171, 171, 171), 0 0 0.2em rgb(171, 171, 171);  
+}
+
+
+
+
+
+body {
+    overflow-x: hidden;
+  }
+  
+  .transition-fade {
+    opacity: 1;
+    transition: 500ms;
+    transform: translateX(0);
+    transform-origin: left;
+  }
+  
+  html.is-animating .transition-fade {
+    opacity: 1;
+    transform: translateX(100%);
+  }
+  
+  html.is-leaving .transition-fade {
+    opacity: 0;
+    transform: translateX(0);
+  }
+  
+  .transition-swipe {
+    transition: 500ms;
+    transform: translateY(0);
+  }
+  
+  html.is-animating .transition-swipe {
+    transform: translateY(100px);
+  }
