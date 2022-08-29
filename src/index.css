@@ -28,7 +28,7 @@ body {
     left: 45vw;
     width: 10px;
     height: 10px;
-    border: solid 1px #ff00ff;
+    border: solid 1px #23a6d5;
     transform-origin: top left;
     transform: scale(0) rotate(0deg) translate(-50%, -50%);
     animation: cube 25s ease-in forwards infinite;
