@@ -41,7 +41,7 @@ function Contact() {
           <div className="about col-lg-12  bg-dark shadow-lg p-1 ">
             <h1 className="font-weight-light text-center mb-3">About Me</h1>
             <p className="text-center mb-3 mx-5">
-              I am currenty a Aircraft Technician at Western Jet Aviation. I
+              I am currently an Aircraft Technician at Western Jet Aviation. I
               love being a Tech but I am getting older and I dont know how much
               longer before my body can not handle working physically anymore. Why am I
               choosing to go into this career path of become a Software
