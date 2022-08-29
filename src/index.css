@@ -12,7 +12,7 @@ body {
   }
   /* ============= Animation background ========= */
   .background {
-    background: linear-gradient(90deg, #ffffff, #ffffff, #ffffff,#ffffff,#ffffff,#ffffff,#ffffff, #591BC5,#5b3f93, #000000,#000000,#000000, #5b3f93, #591BC5, #23a6d5, #23a6d5, #23a6d5, #23a6d5,#23a6d5,#23a6d5, #23a6d5);
+    background: linear-gradient(90deg, #ffffff, #ffffff, #ffffff,#ffffff,#ffffff,#ffffff,#ffffff, #591BC5,#5b3f93,#000000,#000000,#000000,#000000,#000000,#000000,#000000, #000000,#000000,#000000, #5b3f93, #591BC5, #23a6d5, #23a6d5, #23a6d5, #23a6d5,#23a6d5,#23a6d5, #23a6d5);
     background-size: 400% 400%;
     animation: Gradient 30s ease infinite;
     position: relative;
