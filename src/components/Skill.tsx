@@ -26,7 +26,7 @@ function Skill() {
           <div className="col-sm-12 my-3  text-center">
             <div className="container">
               <div className="row">
-                <div className="col-sm-12 my-4 text-center">
+                <div className="col-sm-12 text-center">
                   <div className="col-sm-12  my-4 text-center">
                   <i  className='fab fa-github'style={{ fontSize: "88px" }}/>
                    {/* to= 'href={"https://github.com/RyanHPaez?tab=repositories"' */}
