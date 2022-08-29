@@ -2,6 +2,8 @@ body {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
     box-sizing: border-box;
+    min-height: 100vh;
+    display: flex;
   }
   .container-fluid{
     height: 100%;
@@ -16,7 +18,7 @@ body {
     background-size: 400% 400%;
     animation: Gradient 40s ease infinite;
     position: relative;
-    height: 100vh;
+    height: 100%;
     width: 100%;
     overflow: hidden;
     padding:0;
