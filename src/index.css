@@ -128,7 +128,8 @@ font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
 } */
 
 li {
-    padding:10px
+    padding:10px;
+    color: white
 }
 
 .App {
@@ -219,6 +220,9 @@ h5{
     text-shadow: 1px 1px 2px rgb(0, 85, 255), 0 0 1em rgb(171, 171, 171), 0 0 0.2em rgb(171, 171, 171);  
 }
 
+h6{
+  text-shadow: 1px 1px 2px rgb(0, 85, 255), 0 0 1em rgb(171, 171, 171), 0 0 0.2em rgb(171, 171, 171);  
+}
 .fas {
     color:rgb(163, 255, 3);
     font-size: 14px;
