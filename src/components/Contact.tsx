@@ -3,7 +3,7 @@ import {motion} from "framer-motion"
 
 function Contact() {
   return (
-    <motion.div 
+    <motion.div className="Contact"
     initial={{ opacity: 0, scale: 0.5 }}
       animate={{ opacity: 1, scale: 1 }}
       transition={{
@@ -19,9 +19,10 @@ function Contact() {
         }
       }}
     >
-      <div className="container my-5">
+      
+      <div className="container my-5">      
         <div className="row align-items-center">
-          <div className="img col-sm-12 shadow-lg p-1 ">
+          <div className="img col-sm-12  p-1 ">
             <a href={"https://www.linkedin.com/in/ryan-paez/"}>
               <img
                 className="rounded-circle my-3"
@@ -36,7 +37,7 @@ function Contact() {
               </h1>
             </div>
           </div>
-
+          <div className="about my-3">
           <div className="about col-lg-12  bg-dark shadow-lg p-1 ">
             <h1 className="font-weight-light text-center mb-3">About Me</h1>
             <p className="text-center mb-3 mx-5">
@@ -60,8 +61,9 @@ function Contact() {
             </p>
             <h5 className="font-weight-light text-center mb-4 "> Ryan Paez</h5>
           </div>
-        </div>
-      </div>
+        </div></div></div>
+      
+      
     </motion.div>
   );
 }

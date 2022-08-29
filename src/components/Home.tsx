@@ -18,9 +18,9 @@ function Home() {
         restDelta: 0.001
       }
     }}
-    >
-      <div className="container">
-        <div className="row align-items-center my-5">
+    >      
+      <div className="container">      
+        <div className="row align-items-center  my-5">
           <div className="col-md-6">
           <img
                 className="img-fluid "
@@ -38,6 +38,9 @@ function Home() {
           </div>
         </div>
       </div>
+   
+    
+     
     </motion.div>
   );
 }

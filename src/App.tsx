@@ -8,11 +8,22 @@ import AminmationRoutes from "./components/AminmationRoutes";
 function App() {
   
   return (
+    <div className="container-fluid">
+      <div className="background">
     <div className="App">
       <Router>
         <Navigation />
        <AminmationRoutes />
       </Router>
+      <div className="cube"></div>
+       <div className="cube"></div>
+       <div className="cube"></div>
+       <div className="cube"></div>
+      <div className="cube"></div>
+      <div className="cube"></div>
+      <div className="cube"></div>
+      {/* <div className="cube"></div> */}
+    </div></div>
     </div>
   );
 }
