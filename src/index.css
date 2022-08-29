@@ -192,12 +192,29 @@ img:hover {
     bottom: 1%;
     box-shadow: 0 0 10px 10px rgb(163, 255, 3);
 }
-
+.about p{
+    text-shadow: 1px 1px 2px rgb(0, 85, 255), 0 0 1em rgb(171, 171, 171), 0 0 0.2em rgb(171, 171, 171); 
+}
 .p {
     height: 350px;
     flex-grow:1;   
     float: right;
-    text-align: center;   
+    text-align: center; 
+   
+}
+p{
+    text-shadow: 1px 1px 2px rgb(0, 85, 255), 0 0 1em rgb(255, 255, 255), 0 0 0.2em rgb(255, 255, 255);  
+}
+
+.about h1{
+    text-shadow: 1px 1px 2px rgb(0, 85, 255), 0 0 1em rgb(171, 171, 171), 0 0 0.2em rgb(171, 171, 171); 
+}
+h1{
+    text-shadow: 1px 1px 2px rgb(0, 85, 255), 0 0 1em rgb(255, 255, 255), 0 0 0.2em rgb(255, 255, 255);  
+}
+
+h5{
+    text-shadow: 1px 1px 2px rgb(0, 85, 255), 0 0 1em rgb(171, 171, 171), 0 0 0.2em rgb(171, 171, 171);  
 }
 
 .fas {
