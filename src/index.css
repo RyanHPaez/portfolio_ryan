@@ -55,13 +55,13 @@ body {
   }
   .cube:nth-child(5) {
     animation-delay: 16s;
-    left: 10vw;
+    left: 15vw;
     top: 85vh;
   }
   .cube:nth-child(6) {
     animation-delay: 18s;
-    left: 30vw;
-    top: 10vh;
+    left: 5vw;
+    top: 40vh;
   }
   .cube:nth-child(7) {
     animation-delay: 20s;
@@ -70,7 +70,7 @@ body {
   }
   .cube:nth-child(8) {
     animation-delay: 22s;
-    left: 30vw;
+    left: 100vw;
     top: 40vh;
   }
   .cube:nth-child(9) {
@@ -186,6 +186,10 @@ img:hover {
     box-shadow: 0 0 10px 10px rgb(163, 255, 3);
 }
 
+ #dv {
+  height: 600px;
+  width: 500px;
+ }
 .contact .container .row .img img:hover {
     /* height: 300px; */
     width: auto;
