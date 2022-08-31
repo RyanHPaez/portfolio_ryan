@@ -5,10 +5,8 @@ function Navigation() {
   return (
     <div className="navigation ">
       <nav className="navbar align-items navbar-expand navbar-dark bg-dark ">
-        <div className="container  ">
-          <NavLink className="Ryan navbar-brand" to="/">
-            <i style={{ fontSize: "27px" }}> Ryan's Portfolio</i>
-          </NavLink>
+        <div className="container  ">          
+          <h3 className="font-weight-light text-center">Ryan's Profolio</h3>          
           <div>
             <ul className="navbar-nav ml-auto">
               <li className="nav-item">
@@ -25,7 +23,7 @@ function Navigation() {
               <li className="nav-item">
                 <NavLink className="nav-link" to="/contact">
                   <i
-                    className="fas fa-chess-rook"
+                    className="fab fa-linkedin-in"
                     style={{ fontSize: "27px" }}
                   ></i>
                 </NavLink>
