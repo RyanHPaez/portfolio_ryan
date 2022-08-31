@@ -7,26 +7,26 @@ function Navigation() {
       <nav className="navbar align-items navbar-expand navbar-dark bg-dark ">
         <div className="container  ">
           <NavLink className="Ryan navbar-brand" to="/">
-            <i> Ryan's Portfolio</i>
+            <i style={{ fontSize: "27px" }}> Ryan's Portfolio</i>
           </NavLink>
           <div>
             <ul className="navbar-nav ml-auto">
               <li className="nav-item">
                 <NavLink className="nav-link" to="/">
-                  <i className="fas fa-home" style={{ fontSize: "18px" }}></i>
+                  <i className="fas fa-home" style={{ fontSize: "27px" }}></i>
                   <span className="sr-only">(current)</span>
                 </NavLink>
               </li>
               <li className="nav-item">
                 <NavLink className="nav-link" to="/skills">
-                  <i className="fab fa-github" style={{ fontSize: "18px" }}></i>
+                  <i className="fab fa-github" style={{ fontSize: "27px" }}></i>
                 </NavLink>
               </li>
               <li className="nav-item">
                 <NavLink className="nav-link" to="/contact">
                   <i
                     className="fas fa-chess-rook"
-                    style={{ fontSize: "18px" }}
+                    style={{ fontSize: "27px" }}
                   ></i>
                 </NavLink>
               </li>
