@@ -81,22 +81,22 @@ function Skill() {
                   <ul>
                     <li className="text-left">
                       Collaborated on development of a portfolio piece web
-                      application.{" "}
+                      application.
                     </li>
                     <li className="text-left">
                       Coded cross-browser compatible front-end with ReactJS and
-                      CSS to create dynamic, pixel-perfect user interface{" "}
+                      CSS to create dynamic, pixel-perfect user interface.
                     </li>
                     <li className="text-left">
-                      {" "}
+                      
                       Focused on completing daily tasks and progress toward
-                      goal; achieved product deliverable ahead of schedule
+                      goal; achieved product deliverable ahead of schedule.
                     </li>
                     <li className="text-left">
-                      {" "}
+                     
                       Leveraged user testing data to consolidate multi-page
                       product into a streamlined design and debug code errors;
-                      improved user experience (UX)
+                      improved user experience (UX).
                     </li>
                   </ul>
                   <h5 className="text-left">
@@ -106,18 +106,17 @@ function Skill() {
                   <ul>
                     <li className="text-left">
                       Developed efficient and engaging user interface for
-                      in-browser game.{" "}
+                      in-browser game.
                     </li>
                     <li className="text-left">
-                      {" "}
                       Created front-end layout with HTML5, JSX, React and CSS;
                       incorporated DOM container and React to achieve more
-                      responsive product design
+                      responsive product design.
                     </li>
                     <li className="text-left">
                       Collaborated on product prototype wireframes and enhanced
                       user experience by translating design requirements into
-                      code
+                      code.
                     </li>
                   </ul>
                   <h4 className="text-center">PROFESSIONAL EXPERIENCE</h4>
@@ -128,26 +127,25 @@ function Skill() {
                   <h6 className="text-left">Aircraft Tech 2</h6>
                   <ul>
                     <li className="text-left">
-                      {" "}
+                    
                       Part 145 (14 CFR) Repair Station. Provided training for
                       Aeronautics and technology and implemented operational
                       best practices to support exemplary services to a broad
                       range of Aircraft Makes and Models.
                     </li>
                     <li className="text-left">
-                      {" "}
+                      
                       Escalated system issues to tech support and communicated
-                      status to delivery team to reduce downtime{" "}
+                      status to delivery team to reduce downtime.
                     </li>
                     <li className="text-left">
-                      {" "}
                       Initiated technology demonstrations and developed
                       responses to frequent challenges to enhance team training.
                       Contributed to the best practice handbook for corporate
-                      office
+                      office.
                     </li>
                     <li className="text-left">
-                      {" "}
+                      
                       Heavy Maintenance on aircraft with taking the airplane
                       apart to do work orders, alterations, Inspections, and
                       maintenance. Then putting them back together in accordance
@@ -169,17 +167,17 @@ function Skill() {
                     </li>
                     <li className="text-left">
                       Escalated system issues to tech support and communicated
-                      status to delivery team to reduce downtime{" "}
+                      status to delivery team to reduce downtime.
                     </li>
                     <li className="text-left">
-                      {" "}
+                      
                       Initiated technology demonstrations and developed
                       responses to frequent challenges to enhance team training.
                       Contributed to the best practice handbook for corporate
-                      office
+                      office.
                     </li>
                     <li className="text-left">
-                      {" "}
+                      
                       Heavy Maintenance on aircraft with taking the airplane
                       apart to do work orders, alterations, Inspections, and
                       maintenance. Then putting them back together in accordance
@@ -198,36 +196,36 @@ function Skill() {
                       Leer, Falcon, Embraer, Hawkers.
                     </li>
                     <li className="text-left">
-                      {" "}
+                     
                       MEL’s, IPC’s, read AMM’s, FIM’s, damage reports, log book,
-                      Corridor, CMP
+                      Corridor, CMP.
                     </li>
                     <li className="text-left">
-                      {" "}
+                      
                       Preventive maintenance, Major overhauls on Phenom and
-                      Gulfstream aircraft
+                      Gulfstream aircraft.
                     </li>
                     <li className="text-left">
-                      {" "}
-                      Trans checks, Service Checks, AOG, Replenish oils
+                      
+                      Trans checks, Service Checks, AOG, Replenish oils.
                     </li>
-                    <li className="text-left"> Troubleshooting</li>
+                    <li className="text-left"> Troubleshooting.</li>
                     <li className="text-left">
-                      {" "}
+                      
                       Engine Preservation, Engine maintenance, Cabin maintenance
                     </li>
-                    <li className="text-left"> Corrosion Awareness</li>
-                    <li className="text-left"> Understand Fire protection</li>
+                    <li className="text-left"> Corrosion Awareness.</li>
+                    <li className="text-left"> Understand Fire protection.</li>
                     <li className="text-left">
-                      {" "}
+                      
                       Disassemble, repair, replace and reassemble aircraft and
-                      tools
+                      tools.
                     </li>
                     <li className="text-left">
-                      {" "}
-                      Meet deadlines with quality work
+                    
+                      Meet deadlines with quality work.
                     </li>
-                    <li className="text-left"> Measuring</li>
+                    <li className="text-left"> Measuring.</li>
                   </ul>
                   <h5 className="text-left">
                     DGS/LAUNCH Contractor (Delta Airlines LAX) | August 2018
@@ -237,74 +235,74 @@ function Skill() {
                   <ul>
                     <li className="text-left">
                       Aircraft Maintenance Technician for Boeing 737, 757, 767
-                      and Airbus 319, 320, 321, 330, 350
+                      and Airbus 319, 320, 321, 330, 350.
                     </li>
                     <li className="text-left">
-                      {" "}
+                      
                       Perform all work activities in accordance with established
                       laws, regulations, standards, safety protocols, and
                       procedures to ensure safety of self and others.
                     </li>
                     <li className="text-left">
-                      {" "}
+                      
                       Inspect aircraft or aircraft components, including landing
                       gear, hydraulic systems, tires, and engines for damage,
                       defects, corrosion, or other wear to ensure airworthiness.
                     </li>
                     <li className="text-left">
-                      {" "}
+                    
                       Recommend replacement, repair, or modification of aircraft
                       equipment based on inspection.
                     </li>
                     <li className="text-left">
-                      {" "}
+                     
                       Report issues, malfunctions, unusual wear, or damage to
                       appropriate personnel, as required.
                     </li>
                     <li className="text-left">
-                      {" "}
+                      
                       Installs, removes, or modifies aircraft structures,
                       systems, or components, following drawings, schematics,
                       charts, engineering orders, and technical publications.
                     </li>
                     <li className="text-left">
-                      {" "}
+                      
                       Repairs worn, defective, or damaged parts or components
                       (e.g., damaged gaskets, lines and couplings, cables, and
                       pulleys), using hand tools, gauges, and testing equipment.
                     </li>
                     <li className="text-left">
-                      {" "}
+                     
                       Inspects completed work to certify that maintenance
                       adheres to standards and procedures, and that aircraft are
                       ready for operation.
                     </li>
                     <li className="text-left">
-                      {" "}
+                      
                       Interprets discrepancies or logs (written or verbal) to
                       understand history and nature of issue, to troubleshoot
                       issue, and to identify required next steps (e.g., fix,
                       defer, replace).
                     </li>
                     <li className="text-left">
-                      {" "}
+                      
                       Research, read, and interpret technical manuals and
                       guidelines to perform inspections, installations, repairs,
                       or other work activities.
                     </li>
                     <li className="text-left">
-                      {" "}
+                      
                       Review maintenance records to determine if service and
                       maintenance checks, repairs, and overhauls were performed
                       at prescribed intervals.
                     </li>
                     <li className="text-left">
-                      {" "}
+                      
                       Maintain repair logs, documenting all preventative and
                       corrective aircraft maintenance activities.
                     </li>
                     <li className="text-left">
-                      {" "}
+                   
                       Serve as a technical expert or mentor by providing advice
                       and corrective recommendations to others.
                     </li>
@@ -315,11 +313,11 @@ function Skill() {
                   <h6 className="text-left">Real Estate Agent</h6>
                   <ul>
                     <li className="text-left">
-                      {" "}
+                      
                       Generating client leads to buy, sell, and rent a property.
                     </li>
                     <li className="text-left">
-                      {" "}
+                      
                       Counseling clients on market conditions, prices, and
                       mortgages.
                     </li>
@@ -332,32 +330,32 @@ function Skill() {
                       information location, features, square footage, etc.
                     </li>
                     <li className="text-left">
-                      {" "}
+                      
                       Showing properties to potential buyers and renters.
                     </li>
                     <li className="text-left">
                       Presenting purchase offers to sellers.
                     </li>
                     <li className="text-left">
-                      {" "}
+                      
                       Facilitating negotiations between buyers and sellers.
                     </li>
                     <li className="text-left">
-                      {" "}
+                      
                       Reviewing purchase contracts to ensure terms are met.
                     </li>
                     <li className="text-left">
-                      {" "}
+                      
                       Promoting properties with ads, listings, and open houses.
                     </li>
                     <li className="text-left">
-                      {" "}
+                      
                       Preparing loyalty contracts, purchase agreements, rental
                       agreements, deeds, and other documents for each real
                       estate transaction.
                     </li>
                     <li className="text-left">
-                      {" "}
+                     
                       Maintaining your real estate license and knowledge.
                     </li>
                   </ul>
