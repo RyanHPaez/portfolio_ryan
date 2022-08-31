@@ -29,7 +29,7 @@ function Home() {
             <h1 className="Hi font-weight-light ">Hi, My name is Ryan</h1>
             <p>
               Ready for my next journey in life to start as a Full Stack
-              Developer! I am a hard worker and always do my best to get the
+              Developer! Working hard as a team member and always getting the
               job done right.
             </p>
           </div>
