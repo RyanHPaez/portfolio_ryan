@@ -237,7 +237,7 @@ i   {
     color:rgb(163, 255, 3);
     text-shadow: 1px 1px 2px rgb(0, 85, 255), 0 0 1em rgb(171, 171, 171), 0 0 0.2em rgb(171, 171, 171);  
 background: 
-    linear-gradient(#0177fe 0 0) 
+    linear-gradient(#fe0101 0 0) 
     bottom/100% var(--_d, 0) no-repeat;
     overflow: hidden;
     transition: 0.6s
