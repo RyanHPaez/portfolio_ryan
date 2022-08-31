@@ -35,13 +35,13 @@ function Skill() {
                     </a>
                   </div>
                   <h1 className="myskills font-weight-light  ">My Skills</h1>
-                  <h6 className="myskills">Languages & Tools:</h6>
+                  <h5 className="myskills">Languages & Tools:</h5>
                   <p>
                     JavaScript, React, Redux, Node.js, HTML, CSS, SASS, GitHub,
                     GitBash, Devtools, TypeScript, AWS, Heroku, Django,
                     Cybersecurity
                   </p>
-                  <h6>Databases: </h6>
+                  <h5>Databases: </h5>
                   <p>MongoDB, liostgreSQL, SQL</p>
                 </div>
               </div>
@@ -61,10 +61,10 @@ function Skill() {
                   </h1>
 
                   <h5>Cal State Long Beach</h5>
-                  <p>Software Development Certificate | August 2021–May 2022</p>
+                  <p>Software Development Certificate | August 2021 – May 2022</p>
 
                   <h5>Spartan College Inglewood</h5>
-                  <p>AirFrame & PowerPlant Certificate | June 2016-June 2018</p>
+                  <p>AirFrame & PowerPlant Certificate | June 2016 - June 2018</p>
 
                   <h5>El Camino Community College</h5>
                   <p>Associates Degree General Studies | June 2010</p>
@@ -122,7 +122,7 @@ function Skill() {
                   <h4 className="text-center">PROFESSIONAL EXPERIENCE</h4>
 
                   <h5 className="text-left">
-                    Western Jet Aviation | August 2020–Present
+                    Western Jet Aviation | August 2020 – Present
                   </h5>
                   <h6 className="text-left">Aircraft Tech 2</h6>
                   <ul>
@@ -155,7 +155,7 @@ function Skill() {
 
                   <h5 className="text-left">
                     Apollo Professional Contractor (GulfStream) | October
-                    2019–August 2020
+                    2019 – August 2020
                   </h5>
                   <h6 className="text-left">Aircraft Tech 2</h6>
                   <ul>
@@ -185,7 +185,7 @@ function Skill() {
                     </li>
                   </ul>
                   <h5 className="text-left">
-                    Aerotek Contractor (Clay Lacy Aviation) | June 2019- Oct
+                    Aerotek Contractor (Clay Lacy Aviation) | June 2019 - Oct
                     2019
                   </h5>
                   <h6 className="text-left">Aircraft Tech 2</h6>
@@ -228,7 +228,7 @@ function Skill() {
                   </ul>
                   <h5 className="text-left">
                     DGS/LAUNCH Contractor (Delta Airlines LAX) | August 2018
-                    -June 2019
+                    - June 2019
                   </h5>
                   <h6 className="text-left">Aircraft Maintenance Tech</h6>
                   <ul>
@@ -307,7 +307,7 @@ function Skill() {
                     </li>
                   </ul>
                   <h5 className="text-left my-2">
-                    BerkShire Hathaway | January 2014 -June 2018
+                    BerkShire Hathaway | January 2014 - June 2018
                   </h5>
                   <h6 className="text-left">Real Estate Agent</h6>
                   <ul>
