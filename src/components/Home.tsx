@@ -27,7 +27,7 @@ function Home() {
           </div>
           <div className="col-md-6  my-5 text-center text-justify">
             <h1 className="Hi font-weight-light ">Hi, My name is Ryan</h1>
-            <p>
+            <p style={{ fontSize: "24px" }}>
               Ready for my next journey in life to start as a Full Stack
               Developer! Working hard as a team member and always getting the
               job done right.
