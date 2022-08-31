@@ -25,7 +25,7 @@ function Navigation() {
               <li className="nav-item">
                 <NavLink className="nav-link" to="/contact">
                   <i
-                    className="far fa-money-bill-alt"
+                    className="fas fa-chess-rook"
                     style={{ fontSize: "18px" }}
                   ></i>
                 </NavLink>
