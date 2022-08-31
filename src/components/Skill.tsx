@@ -38,7 +38,7 @@ function Skill() {
                   <h6 className="myskills">Languages & Tools:</h6>
                   <p>
                     JavaScript, React, Redux, Node.js, HTML, CSS, SASS, GitHub,
-                    GitBash, Devtools, , TypeScript, AWS, Heroku, Django,
+                    GitBash, Devtools, TypeScript, AWS, Heroku, Django,
                     Cybersecurity
                   </p>
                   <h6>Databases: </h6>
