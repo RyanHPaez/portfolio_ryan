@@ -29,10 +29,9 @@ function Skill() {
                 <div className="col-sm-12 text-center">
                   <div className="col-sm-12  my-4 text-center">
                   <i  className='fab fa-github'style={{ fontSize: "88px" }}/>
-                   {/* to= 'href={"https://github.com/RyanHPaez?tab=repositories"' */}
-                   {/* </Link> */}
+                  
                     <a href={"https://github.com/RyanHPaez?tab=repositories"}>
-                      <h4 className="my-3">Check them out!</h4>
+                      <h4 className="my-3">My GitHub!</h4>
                     </a>
                   </div>
                   <h1 className="myskills font-weight-light  ">My Skills</h1>
