@@ -200,8 +200,7 @@ function Skill() {
                       MEL’s, IPC’s, read AMM’s, FIM’s, damage reports, log book,
                       Corridor, CMP.
                     </li>
-                    <li className="text-left">
-                      
+                    <li className="text-left">                      
                       Preventive maintenance, Major overhauls on Phenom and
                       Gulfstream aircraft.
                     </li>
@@ -212,7 +211,7 @@ function Skill() {
                     <li className="text-left"> Troubleshooting.</li>
                     <li className="text-left">
                       
-                      Engine Preservation, Engine maintenance, Cabin maintenance
+                      Engine Preservation, Engine maintenance, Cabin maintenance.
                     </li>
                     <li className="text-left"> Corrosion Awareness.</li>
                     <li className="text-left"> Understand Fire protection.</li>
