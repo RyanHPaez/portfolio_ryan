@@ -42,7 +42,7 @@ function Skill() {
                     Cybersecurity
                   </p>
                   <h5>Databases: </h5>
-                  <p>MongoDB, liostgreSQL, SQL</p>
+                  <p>MongoDB, PostgreSQL, SQL</p>
                 </div>
               </div>
               <div className=" ">
