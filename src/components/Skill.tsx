@@ -28,8 +28,11 @@ function Skill() {
               <div className="row">
                 <div className="col-sm-12 text-center">
                   <div className="col-sm-12  my-4 text-center">
-                  <a href={"https://github.com/RyanHPaez?tab=repositories"}>
-                  <i  className='fab fa-github'style={{ fontSize: "88px" }}/>                  
+                    <a href={"https://github.com/RyanHPaez?tab=repositories"}>
+                      <i
+                        className="fab fa-github"
+                        style={{ fontSize: "88px" }}
+                      />
                       <h4 className="my-3">My GitHub!</h4>
                     </a>
                   </div>
@@ -49,9 +52,11 @@ function Skill() {
                   <h1 className="font-weight-light text-center mb-3 ">
                     SUMMARY
                   </h1>
-                  <p>Customer-focused front-end developer experienced at enhancing
-                  user interfaces, writing efficient code, and creating dynamic
-                  products. Adept at visual storytelling.</p>
+                  <p>
+                    Customer-focused front-end developer experienced at
+                    enhancing user interfaces, writing efficient code, and
+                    creating dynamic products. Adept at visual storytelling.
+                  </p>
                 </div>
 
                 <div className=" col-sm-12   ">
@@ -60,10 +65,14 @@ function Skill() {
                   </h1>
 
                   <h5>Cal State Long Beach</h5>
-                  <p>Software Development Certificate | August 2021 - May 2022</p>
+                  <p>
+                    Software Development Certificate | August 2021 - May 2022
+                  </p>
 
                   <h5>Spartan College Inglewood</h5>
-                  <p>AirFrame & PowerPlant Certificate | June 2016 - June 2018</p>
+                  <p>
+                    AirFrame & PowerPlant Certificate | June 2016 - June 2018
+                  </p>
 
                   <h5>El Camino Community College</h5>
                   <p>Associates Degree General Studies | June 2010</p>
@@ -73,74 +82,109 @@ function Skill() {
                   <h1 className="font-weight-light text-center my-3 mb-3">
                     PROFESSIONAL PROJECTS
                   </h1>
+
                   <h5 className="text-left">
-                    Music API  - Freelance |
+                    SweepStake Winner! - Freelance |
+                    https://sweepstakewinner.herokuapp.com/
+                  </h5>
+                  <div className="container my-5">
+                    <div className="row align-items-center text-align center">
+                      <div className="sweepstake ">
+                        <a href={"https://sweepstakewinner.herokuapp.com/"}>
+                          <img
+                            src={require("../images/sweepstake.png")}
+                            id="wm"
+                          ></img>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                  <ul>
+                    <li className="text-left">
+                      Developed efficient and engaging user interface for
+                      in-browser to show off frontend work and utilizing local
+                      storage.
+                    </li>
+                    <li className="text-left">
+                      Created front-end layout with using HTML, CSS and PHP to
+                      respond to Heroku.
+                    </li>
+                    <li className="text-left">
+                      Enhanced pre-existing code by translating thoughtful
+                      design with code and debugging to work flawlessly and able
+                      to deploy on web.
+                    </li>
+                  </ul>
+                  <h5 className="text-left">
+                    Music API - Freelance |
                     https://findmusicforyou.herokuapp.com/
                   </h5>
                   <div className="container my-5">
-        <div className="row align-items-center text-align center">
-          <div className="music ">
-          <a href={"https://findmusicforyou.herokuapp.com/"}>
-            <img src={require("../images/sassy.png")} id="wm"></img>
-            </a>
-          </div>
-          </div>
-          </div>
-          <ul>
+                    <div className="row align-items-center text-align center">
+                      <div className="music ">
+                        <a href={"https://findmusicforyou.herokuapp.com/"}>
+                          <img
+                            src={require("../images/sassy.png")}
+                            id="wm"
+                          ></img>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                  <ul>
                     <li className="text-left">
                       Developed efficient and engaging user interface for
                       in-browser music search.
                     </li>
                     <li className="text-left">
-                      Created front-end layout with HTML, TypeScript, SCSS(SASS) and CSS;
-                      incorporated DOM container and React to achieve more
-                      responsive product design.
+                      Created front-end layout with HTML, TypeScript, SCSS(SASS)
+                      and CSS; incorporated DOM container and React to achieve
+                      more responsive product design.
                     </li>
                     <li className="text-left">
-                      Producted prototype  and enhanced
-                      user experience by translating thoughtful design with
-                      code.
+                      Producted prototype and enhanced user experience by
+                      translating thoughtful design with code.
                     </li>
-                  </ul>
-
+                  </ul>                  
+                  <h5 className="text-left">
+                    Whack-A-Mole - Cal State Long Beach |
+                    https://ryanswhackamole.herokuapp.com/
+                  </h5>
+                  <div className="container my-5">
+                    <div className="row align-items-center text-align center">
+                      <div className="whack ">
+                        <a href={"https://ryanswhackamole.herokuapp.com/"}>
+                          <img
+                            src={require("../images/whackamole.png")}
+                            id="wm"
+                          ></img>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                  <ul>
                   <h5 className="text-left">
                     Portfolio - Freelance | ryanpaezportfolio.herokuapp.com/
                   </h5>
                   <ul>
                     <li className="text-left">
-                      Collaborated on development of a portfolio piece web
-                      application.
+                      Development of a portfolio piece web
+                      application to show off what I have done and can do with ease.
                     </li>
                     <li className="text-left">
                       Coded cross-browser compatible front-end with ReactJS and
                       CSS to create dynamic, pixel-perfect user interface.
                     </li>
                     <li className="text-left">
-                      
                       Focused on completing daily tasks and progress toward
                       goal; achieved product deliverable ahead of schedule.
                     </li>
                     <li className="text-left">
-                     
                       Leveraged user testing data to consolidate multi-page
                       product into a streamlined design and debug code errors;
                       improved user experience (UX).
                     </li>
                   </ul>
-                  <h5 className="text-left">
-                    Whack-A-Mole - Cal State Long Beach |
-                    https://ryanswhackamole.herokuapp.com/
-                  </h5>
-                  <div className="container my-5">
-        <div className="row align-items-center text-align center">
-          <div className="whack ">
-          <a href={"https://ryanswhackamole.herokuapp.com/"}>
-            <img src={require("../images/whackamole.png")} id="wm"></img>
-            </a>
-          </div>
-          </div>
-          </div>
-                  <ul>
                     <li className="text-left">
                       Developed efficient and engaging user interface for
                       in-browser game.
@@ -164,14 +208,12 @@ function Skill() {
                   <h6 className="text-left">Aircraft Tech 2</h6>
                   <ul>
                     <li className="text-left">
-                    
                       Part 145 (14 CFR) Repair Station. Provided training for
                       Aeronautics and technology and implemented operational
                       best practices to support exemplary services to a broad
                       range of Aircraft Makes and Models.
                     </li>
                     <li className="text-left">
-                      
                       Escalated system issues to tech support and communicated
                       status to delivery team to reduce downtime.
                     </li>
@@ -182,7 +224,6 @@ function Skill() {
                       office.
                     </li>
                     <li className="text-left">
-                      
                       Heavy Maintenance on aircraft with taking the airplane
                       apart to do work orders, alterations, Inspections, and
                       maintenance. Then putting them back together in accordance
@@ -191,8 +232,8 @@ function Skill() {
                   </ul>
 
                   <h5 className="text-left">
-                    Apollo Professional Contractor (GulfStream) | October
-                    2019 - August 2020
+                    Apollo Professional Contractor (GulfStream) | October 2019 -
+                    August 2020
                   </h5>
                   <h6 className="text-left">Aircraft Tech 2</h6>
                   <ul>
@@ -207,14 +248,12 @@ function Skill() {
                       status to delivery team to reduce downtime.
                     </li>
                     <li className="text-left">
-                      
                       Initiated technology demonstrations and developed
                       responses to frequent challenges to enhance team training.
                       Contributed to the best practice handbook for corporate
                       office.
                     </li>
                     <li className="text-left">
-                      
                       Heavy Maintenance on aircraft with taking the airplane
                       apart to do work orders, alterations, Inspections, and
                       maintenance. Then putting them back together in accordance
@@ -233,39 +272,35 @@ function Skill() {
                       Leer, Falcon, Embraer, Hawkers.
                     </li>
                     <li className="text-left">
-                     
                       MEL’s, IPC’s, read AMM’s, FIM’s, damage reports, log book,
                       Corridor, CMP.
                     </li>
-                    <li className="text-left">                      
+                    <li className="text-left">
                       Preventive maintenance, Major overhauls on Phenom and
                       Gulfstream aircraft.
                     </li>
                     <li className="text-left">
-                      
                       Trans checks, Service Checks, AOG, Replenish oils.
                     </li>
                     <li className="text-left"> Troubleshooting.</li>
                     <li className="text-left">
-                      
-                      Engine Preservation, Engine maintenance, Cabin maintenance.
+                      Engine Preservation, Engine maintenance, Cabin
+                      maintenance.
                     </li>
                     <li className="text-left"> Corrosion Awareness.</li>
                     <li className="text-left"> Understand Fire protection.</li>
                     <li className="text-left">
-                      
                       Disassemble, repair, replace and reassemble aircraft and
                       tools.
                     </li>
                     <li className="text-left">
-                    
                       Meet deadlines with quality work.
                     </li>
                     <li className="text-left"> Measuring.</li>
                   </ul>
                   <h5 className="text-left">
-                    DGS/LAUNCH Contractor (Delta Airlines LAX) | August 2018
-                    - June 2019
+                    DGS/LAUNCH Contractor (Delta Airlines LAX) | August 2018 -
+                    June 2019
                   </h5>
                   <h6 className="text-left">Aircraft Maintenance Tech</h6>
                   <ul>
@@ -274,71 +309,59 @@ function Skill() {
                       and Airbus 319, 320, 321, 330, 350.
                     </li>
                     <li className="text-left">
-                      
                       Perform all work activities in accordance with established
                       laws, regulations, standards, safety protocols, and
                       procedures to ensure safety of self and others.
                     </li>
                     <li className="text-left">
-                      
                       Inspect aircraft or aircraft components, including landing
                       gear, hydraulic systems, tires, and engines for damage,
                       defects, corrosion, or other wear to ensure airworthiness.
                     </li>
                     <li className="text-left">
-                    
                       Recommend replacement, repair, or modification of aircraft
                       equipment based on inspection.
                     </li>
                     <li className="text-left">
-                     
                       Report issues, malfunctions, unusual wear, or damage to
                       appropriate personnel, as required.
                     </li>
                     <li className="text-left">
-                      
                       Installs, removes, or modifies aircraft structures,
                       systems, or components, following drawings, schematics,
                       charts, engineering orders, and technical publications.
                     </li>
                     <li className="text-left">
-                      
                       Repairs worn, defective, or damaged parts or components
                       (e.g., damaged gaskets, lines and couplings, cables, and
                       pulleys), using hand tools, gauges, and testing equipment.
                     </li>
                     <li className="text-left">
-                     
                       Inspects completed work to certify that maintenance
                       adheres to standards and procedures, and that aircraft are
                       ready for operation.
                     </li>
                     <li className="text-left">
-                      
                       Interprets discrepancies or logs (written or verbal) to
                       understand history and nature of issue, to troubleshoot
                       issue, and to identify required next steps (e.g., fix,
                       defer, replace).
                     </li>
                     <li className="text-left">
-                      
                       Research, read, and interpret technical manuals and
                       guidelines to perform inspections, installations, repairs,
                       or other work activities.
                     </li>
                     <li className="text-left">
-                      
                       Review maintenance records to determine if service and
                       maintenance checks, repairs, and overhauls were performed
                       at prescribed intervals.
                     </li>
                     <li className="text-left">
-                      
                       Maintain repair logs, documenting all preventative and
                       corrective aircraft maintenance activities.
                     </li>
                     <li className="text-left">
-                   
                       Serve as a technical expert or mentor by providing advice
                       and corrective recommendations to others.
                     </li>
@@ -347,7 +370,6 @@ function Skill() {
                     BerkShire Hathaway | January 2014 - June 2020
                   </h5>
                   <h6 className="text-left">Real Estate Agent</h6>
-                  
                 </div>
               </div>
             </div>
