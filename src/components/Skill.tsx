@@ -60,7 +60,7 @@ function Skill() {
                   </h1>
 
                   <h5>Cal State Long Beach</h5>
-                  <p>Software Development Certificate | August 2021 – May 2022</p>
+                  <p>Software Development Certificate | August 2021 - May 2022</p>
 
                   <h5>Spartan College Inglewood</h5>
                   <p>AirFrame & PowerPlant Certificate | June 2016 - June 2018</p>
@@ -74,12 +74,12 @@ function Skill() {
                     PROFESSIONAL PROJECTS
                   </h1>
                   <h5 className="text-left">
-                    Music API  – Freelance |
+                    Music API  - Freelance |
                     https://findmusicforyou.herokuapp.com/
                   </h5>
                   <div className="container my-5">
         <div className="row align-items-center text-align center">
-          <div className="whack ">
+          <div className="music ">
           <a href={"https://findmusicforyou.herokuapp.com/"}>
             <img src={require("../images/sassy.png")} id="wm"></img>
             </a>
@@ -97,14 +97,14 @@ function Skill() {
                       responsive product design.
                     </li>
                     <li className="text-left">
-                      Collaborated on product prototype wireframes and enhanced
-                      user experience by translating design requirements into
+                      Producted prototype  and enhanced
+                      user experience by translating thoughtful design with
                       code.
                     </li>
                   </ul>
 
                   <h5 className="text-left">
-                    Portfolio – Freelance | ryanpaezportfolio.herokuapp.com/
+                    Portfolio - Freelance | ryanpaezportfolio.herokuapp.com/
                   </h5>
                   <ul>
                     <li className="text-left">
@@ -128,7 +128,7 @@ function Skill() {
                     </li>
                   </ul>
                   <h5 className="text-left">
-                    Whack-A-Mole – Cal State Long Beach |
+                    Whack-A-Mole - Cal State Long Beach |
                     https://ryanswhackamole.herokuapp.com/
                   </h5>
                   <div className="container my-5">
@@ -159,7 +159,7 @@ function Skill() {
                   <h4 className="text-center">PROFESSIONAL EXPERIENCE</h4>
 
                   <h5 className="text-left">
-                    Western Jet Aviation | August 2020 – Present
+                    Western Jet Aviation | August 2020 - Present
                   </h5>
                   <h6 className="text-left">Aircraft Tech 2</h6>
                   <ul>
@@ -192,7 +192,7 @@ function Skill() {
 
                   <h5 className="text-left">
                     Apollo Professional Contractor (GulfStream) | October
-                    2019 – August 2020
+                    2019 - August 2020
                   </h5>
                   <h6 className="text-left">Aircraft Tech 2</h6>
                   <ul>
