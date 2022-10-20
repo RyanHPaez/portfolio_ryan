@@ -83,7 +83,7 @@ function Skill() {
                     PROFESSIONAL PROJECTS
                   </h1>
 
-                  <h5 className="text-left">
+                  <h5 className="text-center">
                     SweepStake Winner! - Freelance |
                     https://sweepstakewinner.herokuapp.com/
                   </h5>
@@ -115,7 +115,7 @@ function Skill() {
                       to deploy on web.
                     </li>
                   </ul>
-                  <h5 className="text-left">
+                  <h5 className="text-center">
                     Music API - Freelance |
                     https://findmusicforyou.herokuapp.com/
                   </h5>
@@ -124,7 +124,7 @@ function Skill() {
                       <div className="music ">
                         <a href={"https://findmusicforyou.herokuapp.com/"}>
                           <img
-                            src={require("../images/sassy.png")}
+                            src={require("../images/musicsearch.png")}
                             id="wm"
                           ></img>
                         </a>
@@ -146,7 +146,7 @@ function Skill() {
                       translating thoughtful design with code.
                     </li>
                   </ul>                  
-                  <h5 className="text-left">
+                  <h5 className="text-center">
                     Whack-A-Mole - Cal State Long Beach |
                     https://ryanswhackamole.herokuapp.com/
                   </h5>
@@ -163,7 +163,7 @@ function Skill() {
                     </div>
                   </div>
                   <ul>
-                  <h5 className="text-left">
+                  <h5 className="text-center">
                     Portfolio - Freelance | ryanpaezportfolio.herokuapp.com/
                   </h5>
                   <ul>
