@@ -28,9 +28,8 @@ function Skill() {
               <div className="row">
                 <div className="col-sm-12 text-center">
                   <div className="col-sm-12  my-4 text-center">
-                  <i  className='fab fa-github'style={{ fontSize: "88px" }}/>
-                  
-                    <a href={"https://github.com/RyanHPaez?tab=repositories"}>
+                  <a href={"https://github.com/RyanHPaez?tab=repositories"}>
+                  <i  className='fab fa-github'style={{ fontSize: "88px" }}/>                  
                       <h4 className="my-3">My GitHub!</h4>
                     </a>
                   </div>
@@ -74,6 +73,35 @@ function Skill() {
                   <h1 className="font-weight-light text-center my-3 mb-3">
                     PROFESSIONAL PROJECTS
                   </h1>
+                  <h5 className="text-left">
+                    Music API  – Freelance |
+                    https://findmusicforyou.herokuapp.com/
+                  </h5>
+                  <div className="container my-5">
+        <div className="row align-items-center text-align center">
+          <div className="whack ">
+          <a href={"https://findmusicforyou.herokuapp.com/"}>
+            <img src={require("../images/sassy.png")} id="wm"></img>
+            </a>
+          </div>
+          </div>
+          </div>
+          <ul>
+                    <li className="text-left">
+                      Developed efficient and engaging user interface for
+                      in-browser music search.
+                    </li>
+                    <li className="text-left">
+                      Created front-end layout with HTML, TypeScript, SCSS(SASS) and CSS;
+                      incorporated DOM container and React to achieve more
+                      responsive product design.
+                    </li>
+                    <li className="text-left">
+                      Collaborated on product prototype wireframes and enhanced
+                      user experience by translating design requirements into
+                      code.
+                    </li>
+                  </ul>
 
                   <h5 className="text-left">
                     Portfolio – Freelance | ryanpaezportfolio.herokuapp.com/
@@ -103,6 +131,15 @@ function Skill() {
                     Whack-A-Mole – Cal State Long Beach |
                     https://ryanswhackamole.herokuapp.com/
                   </h5>
+                  <div className="container my-5">
+        <div className="row align-items-center text-align center">
+          <div className="whack ">
+          <a href={"https://ryanswhackamole.herokuapp.com/"}>
+            <img src={require("../images/whackamole.png")} id="wm"></img>
+            </a>
+          </div>
+          </div>
+          </div>
                   <ul>
                     <li className="text-left">
                       Developed efficient and engaging user interface for
@@ -307,57 +344,10 @@ function Skill() {
                     </li>
                   </ul>
                   <h5 className="text-left my-2">
-                    BerkShire Hathaway | January 2014 - June 2018
+                    BerkShire Hathaway | January 2014 - June 2020
                   </h5>
                   <h6 className="text-left">Real Estate Agent</h6>
-                  <ul>
-                    <li className="text-left">
-                      
-                      Generating client leads to buy, sell, and rent a property.
-                    </li>
-                    <li className="text-left">
-                      
-                      Counseling clients on market conditions, prices, and
-                      mortgages.
-                    </li>
-                    <li className="text-left">
-                      Developing a competitive market price by comparing
-                      properties.
-                    </li>
-                    <li className="text-left">
-                      Creating lists for real estate sale properties, with
-                      information location, features, square footage, etc.
-                    </li>
-                    <li className="text-left">
-                      
-                      Showing properties to potential buyers and renters.
-                    </li>
-                    <li className="text-left">
-                      Presenting purchase offers to sellers.
-                    </li>
-                    <li className="text-left">
-                      
-                      Facilitating negotiations between buyers and sellers.
-                    </li>
-                    <li className="text-left">
-                      
-                      Reviewing purchase contracts to ensure terms are met.
-                    </li>
-                    <li className="text-left">
-                      
-                      Promoting properties with ads, listings, and open houses.
-                    </li>
-                    <li className="text-left">
-                      
-                      Preparing loyalty contracts, purchase agreements, rental
-                      agreements, deeds, and other documents for each real
-                      estate transaction.
-                    </li>
-                    <li className="text-left">
-                     
-                      Maintaining your real estate license and knowledge.
-                    </li>
-                  </ul>
+                  
                 </div>
               </div>
             </div>
