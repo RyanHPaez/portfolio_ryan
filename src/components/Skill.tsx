@@ -82,6 +82,34 @@ function Skill() {
                   <h1 className="font-weight-light text-center my-3 mb-3">
                     PROFESSIONAL PROJECTS
                   </h1>
+                  <h5 className="text-center">
+                    Resturant Rant - Cal State LongBeach & Freelance Full Stack|
+                    https://restaurantsrants.herokuapp.com/
+                  </h5>
+                  <div className="container my-5">
+                    <div className="row align-items-center text-align center">
+                      <div className="rest Rant">
+                        <a href={"https://restaurantsrants.herokuapp.com/" } >
+                          <img
+                            src={require("../images/rant.png")}
+                            id="wm"
+                            className="center"
+                          ></img>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                  <ul>
+                    <li className="text-left">
+                    Developed an efficient and engaging user interface for in-browser to show off Full-Stack work and utilizing Mongo Data Base storage.
+                    </li>
+                    <li className="text-left">
+                    Created code by translating thoughtful design with code and debugging to work flawlessly and able to deploy on web.
+                    </li>
+                    <li className="text-left">
+                    Created Fullstack layout by using HTML, CSS, React, DotENV, Express-React-Views, React, Express, Method-Override and Mongoose to respond to Heroku. 
+                    </li>
+                  </ul>
 
                   <h5 className="text-center">
                     SweepStake Winner! - Freelance |
@@ -101,13 +129,10 @@ function Skill() {
                   </div>
                   <ul>
                     <li className="text-left">
-                      Developed efficient and engaging user interface for
-                      in-browser to show off frontend work and utilizing local
-                      storage.
+                      Developed efficient and engaging user interface for in-browser to show off frontend work and utilizing local storage.
                     </li>
                     <li className="text-left">
-                      Created front-end layout with using HTML, CSS and PHP to
-                      respond to Heroku.
+                      Created front-end layout with using HTML, CSS and PHP to respond to Heroku. Get a different result every time you enter with Math Random.
                     </li>
                     <li className="text-left">
                       Enhanced pre-existing code by translating thoughtful
@@ -145,7 +170,7 @@ function Skill() {
                       Producted prototype and enhanced user experience by
                       translating thoughtful design with code.
                     </li>
-                  </ul>                  
+                  </ul>
                   <h5 className="text-center">
                     Whack-A-Mole - Cal State Long Beach |
                     https://ryanswhackamole.herokuapp.com/
@@ -163,28 +188,28 @@ function Skill() {
                     </div>
                   </div>
                   <ul>
-                  <h5 className="text-center">
-                    Portfolio - Freelance | ryanpaezportfolio.herokuapp.com/
-                  </h5>
-                  <ul>
-                    <li className="text-left">
-                      Development of a portfolio piece web
-                      application to show off what I have done and can do with ease.
-                    </li>
-                    <li className="text-left">
-                      Coded cross-browser compatible front-end with ReactJS and
-                      CSS to create dynamic, pixel-perfect user interface.
-                    </li>
-                    <li className="text-left">
-                      Focused on completing daily tasks and progress toward
-                      goal; achieved product deliverable ahead of schedule.
-                    </li>
-                    <li className="text-left">
-                      Leveraged user testing data to consolidate multi-page
-                      product into a streamlined design and debug code errors;
-                      improved user experience (UX).
-                    </li>
-                  </ul>
+                    <h5 className="text-center">
+                      Portfolio - Freelance | ryanpaezportfolio.herokuapp.com/
+                    </h5>
+                    <ul>
+                      <li className="text-left">
+                        Development of a portfolio piece web application to show
+                        off what I have done and can do with ease.
+                      </li>
+                      <li className="text-left">
+                        Coded cross-browser compatible front-end with ReactJS
+                        and CSS to create dynamic, pixel-perfect user interface.
+                      </li>
+                      <li className="text-left">
+                        Focused on completing daily tasks and progress toward
+                        goal; achieved product deliverable ahead of schedule.
+                      </li>
+                      <li className="text-left">
+                        Leveraged user testing data to consolidate multi-page
+                        product into a streamlined design and debug code errors;
+                        improved user experience (UX).
+                      </li>
+                    </ul>
                     <li className="text-left">
                       Developed efficient and engaging user interface for
                       in-browser game.
