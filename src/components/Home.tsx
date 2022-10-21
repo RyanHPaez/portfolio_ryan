@@ -32,6 +32,13 @@ function Home() {
               Developer! Working hard as a team member and always getting the
               job done right.
             </p>
+            <i className="emblem fa-brands fa-react"></i>
+            <i className="emblem fa-brands fa-js"></i>
+            <i className="emblem fa-brands fa-node"></i>
+            <i className="emblem fa-brands fa-css3"></i>
+            <i className="emblem fa-brands fa-html5"></i>
+            <i className="emblem fa-brands fa-bootstrap"></i>
+            <i className="emblem fa-brands fa-python"></i>
           </div>
         </div>
       </div>

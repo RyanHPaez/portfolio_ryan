@@ -53,9 +53,7 @@ function Skill() {
                     SUMMARY
                   </h1>
                   <p>
-                    Customer-focused front-end developer experienced at
-                    enhancing user interfaces, writing efficient code, and
-                    creating dynamic products. Adept at visual storytelling.
+                  Customer-focused front-end developer experienced at enhancing user interfaces, writing efficient code, and creating dynamic products. Understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery. Experience with UI/UX design. Experience with RESTful APIs. Write mobile and web apps in Angular.JS and React.JS. Good at making tricky layouts and full width backgrounds look good across the board. Experience taking designs from figma and polishing all the way to complete website. Ability to break down and solve complex problems. Experience with PostgreSQL and Mongodb.
                   </p>
                 </div>
 
@@ -187,7 +185,7 @@ function Skill() {
                       </div>
                     </div>
                   </div>
-                  <ul>
+                  
                     <h5 className="text-center">
                       Portfolio - Freelance | ryanpaezportfolio.herokuapp.com/
                     </h5>
@@ -209,7 +207,7 @@ function Skill() {
                         product into a streamlined design and debug code errors;
                         improved user experience (UX).
                       </li>
-                    </ul>
+                    
                     <li className="text-left">
                       Developed efficient and engaging user interface for
                       in-browser game.

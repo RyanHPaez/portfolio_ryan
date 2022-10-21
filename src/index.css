@@ -26,8 +26,8 @@ body {
   }
   .cube {
     position: absolute;
-    top: 80vh;
-    left: 45vw;
+    top: 10vh;
+    left: 10vw;
     width: 10px;
     height: 10px;
     border: solid 1px #23a6d5;
@@ -38,46 +38,46 @@ body {
   .cube:nth-child(2n) {
     border-color: #FFF ;
   }
-  .cube:nth-child(2) {
+  /* .cube:nth-child(2) {
     animation-delay: 10s;
     left: 25vw;
     top: 40vh;
-  }
-  .cube:nth-child(3) {
+  } */
+  /* .cube:nth-child(3) {
     animation-delay: 30s;
     left: 75vw;
     top: 40vh;
-  }
+  } */
   .cube:nth-child(4) {
     animation-delay: 14s;
     left: 90vw;
     top: 10vh;
   }
-  .cube:nth-child(5) {
+  /* .cube:nth-child(5) {
     animation-delay: 16s;
     left: 15vw;
     top: 85vh;
-  }
-  .cube:nth-child(6) {
+  } */
+  /* .cube:nth-child(6) {
     animation-delay: 18s;
     left: 5vw;
     top: 40vh;
-  }
-  .cube:nth-child(7) {
+  } */
+  /* .cube:nth-child(7) {
     animation-delay: 20s;
     left: 90vw;
     top: 90vh;
-  }
-  .cube:nth-child(8) {
+  } */
+  /* .cube:nth-child(8) {
     animation-delay: 22s;
     left: 100vw;
     top: 40vh;
-  }
-  .cube:nth-child(9) {
+  } */
+  /* .cube:nth-child(9) {
     animation-delay: 24s;
     left: 10vw;
     top: 10vh;
-  }
+  } */
   
   @keyframes Gradient {
     0% {
@@ -314,4 +314,12 @@ body {
   margin-left: auto;
   margin-right: auto;
   width: 100%;
+ }
+
+ .emblem {
+  display: inline;
+padding: 10px;
+font-size: 47px;
+margin-left: auto;
+  margin-right: auto;
  }
