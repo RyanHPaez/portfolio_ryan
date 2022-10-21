@@ -121,6 +121,7 @@ function Skill() {
                           <img
                             src={require("../images/sweepstake.png")}
                             id="wm"
+                            alt="sweepstakes"
                           ></img>
                         </a>
                       </div>
