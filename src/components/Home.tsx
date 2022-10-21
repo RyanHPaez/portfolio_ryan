@@ -23,7 +23,7 @@ function Home() {
       <div className="container ">
         <div className="row align-items-center  my-5">
           <div className="col-md-6 my-5 ">
-            <img src={require("../images/dv.jpg")} id="dv"></img>
+            <img src={require("../images/dv.jpg")}alt="Daddy and Valerie" id="dv"></img>
           </div>
           <div className="col-md-6  my-5 text-center text-justify">
             <h1 className="Hi font-weight-light ">Hi, My name is Ryan</h1>

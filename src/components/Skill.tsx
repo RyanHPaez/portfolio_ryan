@@ -91,6 +91,7 @@ function Skill() {
                           <img
                             src={require("../images/rant.png")}
                             id="wm"
+                            alt="rant"
                             className="center"
                           ></img>
                         </a>
@@ -149,6 +150,7 @@ function Skill() {
                           <img
                             src={require("../images/musicsearch.png")}
                             id="wm"
+                            alt="musicApi"
                           ></img>
                         </a>
                       </div>
@@ -180,6 +182,7 @@ function Skill() {
                           <img
                             src={require("../images/whackamole.png")}
                             id="wm"
+                            alt="whackamole"
                           ></img>
                         </a>
                       </div>

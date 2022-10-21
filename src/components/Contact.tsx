@@ -24,11 +24,11 @@ function Contact() {
         <div className="row align-items-center">
           <div className="img col-sm-12  p-1 ">
             <a href={"https://www.linkedin.com/in/ryan-paez/"}>
-              <img
-                className="rounded-circle my-3"
+              <div className="rounded-circle my-3">
+              <img                 
                 src={require("../images/Me.jpg")}
-                alt="Linkedin photo"
-              />
+                alt="me"
+              /></div>
             </a>
             <h5 className="font-weight-light text-center">Click me!</h5>
             <div className="col-sm-12">
