@@ -39,6 +39,7 @@ function Home() {
             <i className="emblem fa-brands fa-html5"></i>
             <i className="emblem fa-brands fa-bootstrap"></i>
             <i className="emblem fa-brands fa-python"></i>
+            <i className="emblem fa-brands fa-sass"></i>
           </div>
         </div>
       </div>

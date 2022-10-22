@@ -23,12 +23,12 @@ function Contact() {
       <div className="container my-5">
         <div className="row align-items-center">
           <div className="img col-sm-12  p-1 ">
-            <a href={"https://www.linkedin.com/in/ryan-paez/"}>
-              <div className="rounded-circle my-3">
-              <img                 
-                src={require("../images/Me.jpg")}
+          <a href={"https://www.linkedin.com/in/ryan-paez/"}>
+              <img
+                className="rounded-circle my-3"
+                src="https://media-exp1.licdn.com/dms/image/C4E03AQGV7LQ_7Q-aTw/profile-displayphoto-shrink_200_200/0/1591653389941?e=1666828800&v=beta&t=PGohE5aTIFEhEp7tj86A-6B_HcIpgSagdnSHgdojD4k"
                 alt="me"
-              /></div>
+              />
             </a>
             <h5 className="font-weight-light text-center">Click me!</h5>
             <div className="col-sm-12">

@@ -14,9 +14,9 @@ body {
   }
   /* ============= Animation background ========= */
   .background {
-    background: linear-gradient(90deg, #ffffff, #ffffff, #ffffff,#ffffff,#ffffff,#ffffff,#ffffff,#ffffff,#ffffff,#ffffff,  #23a6d5, #23a6d5, #23a6d5, #23a6d5,#23a6d5,#23a6d5, #23a6d5, #23a6d5, #23a6d5, #23a6d5);
-    background-size: 400% 400%;
-    animation: Gradient 40s ease infinite;
+    background: linear-gradient(90deg ,#ffffff, #8edbf7);
+    background-size: 1500% 1500%;
+    animation: Gradient 30s ease infinite;
     position: relative;
     height: 100%;
     width: 100%;
@@ -24,7 +24,7 @@ body {
     padding:0;
     margin:0px;
   }
-  .cube {
+  /* .cube {
     position: absolute;
     top: 10vh;
     left: 10vw;
@@ -37,7 +37,7 @@ body {
   }
   .cube:nth-child(2n) {
     border-color: #FFF ;
-  }
+  } */
   /* .cube:nth-child(2) {
     animation-delay: 10s;
     left: 25vw;
@@ -48,11 +48,11 @@ body {
     left: 75vw;
     top: 40vh;
   } */
-  .cube:nth-child(4) {
+  /* .cube:nth-child(4) {
     animation-delay: 14s;
     left: 90vw;
     top: 10vh;
-  }
+  } */
   /* .cube:nth-child(5) {
     animation-delay: 16s;
     left: 15vw;
