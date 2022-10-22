@@ -3,6 +3,7 @@ import { Route, Routes, useLocation } from "react-router-dom";
 import {  Home, Skill, Contact } from "../components";
 import {AnimatePresence} from "framer-motion"
 
+
 function AminmationRoutes() {
     const location= useLocation();
   return (
