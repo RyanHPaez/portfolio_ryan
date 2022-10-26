@@ -5,6 +5,7 @@ import React from "react";
 // import { useLocation } from "@reach/router";
 import AminmationRoutes from "./components/AminmationRoutes";
 
+
 function App() {
   return (
     <div className="container-fluid">
@@ -13,6 +14,7 @@ function App() {
           <Router>
             <Navigation />
             <AminmationRoutes />
+      
           </Router>
           {/* <div className="cube"></div>
        <div className="cube"></div>

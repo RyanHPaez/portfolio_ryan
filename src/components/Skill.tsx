@@ -15,7 +15,7 @@ function Skill() {
         },
         scale: {
           type: "spring",
-          damping: 5,
+          damping:20,
           stiffness: 100,
           restDelta: 0.001,
         },

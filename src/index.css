@@ -4,6 +4,7 @@ body {
     box-sizing: border-box;
     min-height: 100vh;
     display: flex;
+    transform-style: preserve-3d;
   }
   .container-fluid{
     height: 100%;
@@ -11,6 +12,7 @@ body {
     padding: 0;
     width: 100%;
     background: #FFF;
+    transform-style: preserve-3d;
   }
   /* ============= Animation background ========= */
   .background {
@@ -23,6 +25,7 @@ body {
     overflow: hidden;
     padding:0;
     margin:0px;
+    transform-style: preserve-3d;
   }
   /* .cube {
     position: absolute;
@@ -90,7 +93,7 @@ body {
       background-position: 0% 50%;
     }
   }
-  @keyframes cube {
+  /* @keyframes cube {
     from {
       transform: scale(0) rotate(0deg) translate(-50%, -50%);
       opacity: 1;
@@ -99,7 +102,7 @@ body {
       transform: scale(20) rotate(960deg) translate(-50%, -50%);
       opacity: 0;
     }
-  }
+  } */
 
 
 /* code {
@@ -190,6 +193,8 @@ img:hover {
   height: 600px;
   width: 500px;
  }
+
+ 
 .contact .container .row .img img:hover {
     /* height: 300px; */
     width: auto;
