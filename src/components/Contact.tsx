@@ -9,12 +9,12 @@ function Contact() {
       animate={{ opacity: 1, scale: 1 }}
       transition={{
         default: {
-          duration: 0.3,
+          duration: 0.20,
           ease: [0, 0.71, 0.2, 1.01],
         },
         scale: {
           type: "spring",
-          damping: 5,
+          damping: 20,
           stiffness: 100,
           restDelta: 0.001,
         },

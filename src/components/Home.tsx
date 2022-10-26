@@ -10,12 +10,12 @@ function Home() {
       animate={{ opacity: 1, scale: 1 }}
       transition={{
         default: {
-          duration: 0.2,
+          duration: 0.3,
           ease: [0, 0.71, 0.2, 1.01],
         },
         scale: {
           type: "spring",
-          damping: 20,
+          damping:20,
           stiffness: 100,
           restDelta: 0.001,
         },
@@ -24,11 +24,17 @@ function Home() {
       <div className="container ">
         <div className="row align-items-center  my-5">
           <div className="col-md-6 my-5 ">
-            <img
-              src={require("../images/dv.jpg")}
-              alt="Daddy and Valerie"
-              id="dv"
-            ></img>
+            
+              <div className="carousel" data-carousel>
+                
+                    <img
+                      src={require("../images/dv.jpg")}
+                      alt="Daddy and Valerie"
+                      id="dv"
+                    ></img>
+                 
+              </div>
+            
           </div>
           <div className="col-md-6  my-5 text-center text-justify">
             <h1 className="Hi font-weight-light ">Hi, My name is Ryan</h1>
