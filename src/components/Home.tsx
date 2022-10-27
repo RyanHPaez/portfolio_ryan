@@ -15,45 +15,51 @@ function Home() {
         },
         scale: {
           type: "spring",
-          damping:20,
+          damping: 20,
           stiffness: 100,
           restDelta: 0.001,
         },
       }}
     >
       <div className="container ">
-        <div className="row align-items-center  my-5">
-          <div className="col-md-6 my-5 ">
-            
-              <div className="carousel" data-carousel>
-                
-                    <img
-                      src={require("../images/dv.jpg")}
-                      alt="Daddy and Valerie"
-                      id="dv"
-                    ></img>
-                 
-              </div>
-            
-          </div>
-          <div className="col-md-6  my-5 text-center text-justify">
-            <h1 className="Hi font-weight-light ">Hi, My name is Ryan</h1>
-            <p style={{ fontSize: "24px" }}>
-              Ready for my next journey in life to start as a Full Stack
-              Developer! Working hard as a team member and always getting the
-              job done right.
+        <div className="Image my-5 ">
+          <img
+            src={require("../images/dv.jpg")}
+            alt="Daddy and Valerie"
+            id="dv"
+            className="center"
+          ></img>
+        </div>
+        
+          <div className="about ">
+            <h1 className="font-weight-light text-center align-items-center mb-3">
+              Hi, My name is Ryan
+            </h1>
+            <p className="text-center mx-4 " >
+              Currently an Aircraft Technician at Western Jet Aviation. Love
+              being a Tech but I am getting older and I dont know how much
+              longer before my body can not handle working physically anymore.
+              My greatest accomplishment is having great understanding and
+              compassion working within a team. I have managed other employees
+              with great leadership skills. Why am I choosing to go into this
+              career path of become a Software developer? Because I simply love
+              coding, love sitting behind a desk and watching my work progress
+              with the push of a save button. I am a father of two perfect
+              children and a husband to the best wife in the world. Currently
+              working as a Aircraft Mechanic. I Love staying busy, focused and
+              challenged, being very persistent with amazing drive. An excellent
+              team player and love working with people that have great knowledge
+              and abilities. My best traits are having a great personality, easy
+              to talk to and also known to be a genuine guy. Coding found me and
+              I learned that it fits into what I am a natural at. Never giving
+              up! My present and future is blessed with happiness that comes
+              from having a positive attitude. Proud of all accomplishments
+              achieved and future accomplishments that will be achieved. Wanting
+              to mature will always be a thing for me.
             </p>
-            <i className="emblem fa-brands fa-react"></i>
-            <i className="emblem fa-brands fa-js"></i>
-            <i className="emblem fa-brands fa-node"></i>
-            <i className="emblem fa-brands fa-css3"></i>
-            <i className="emblem fa-brands fa-html5"></i>
-            <i className="emblem fa-brands fa-bootstrap"></i>
-            <i className="emblem fa-brands fa-python"></i>
-            <i className="emblem fa-brands fa-sass"></i>
           </div>
         </div>
-      </div>
+      
     </motion.div>
   );
 }

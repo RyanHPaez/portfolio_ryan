@@ -21,8 +21,8 @@ function Skill() {
         },
       }}
     >
-      <div className="row bg-dark my-5">
-        <div className="resume col-sm-12 text-center">
+      <div className="row my-5">
+        
           <div className="col-sm-12 my-3  text-center">
             <div className="container">
               <div className="row">
@@ -36,8 +36,16 @@ function Skill() {
                       <h4 className="my-3">My GitHub!</h4>
                     </a>
                   </div>
-                  <h1 className="myskills font-weight-light  ">My Skills</h1>
-                  <h5 className="myskills">Languages & Tools:</h5>
+                  <h1 className="myskills font-weight-light mb-3 ">My Skills</h1>
+                  <i className="emblem fa-brands fa-react"></i>
+          <i className="emblem fa-brands fa-js"></i>
+          <i className="emblem fa-brands fa-node"></i>
+          <i className="emblem fa-brands fa-css3"></i>
+          <i className="emblem fa-brands fa-html5"></i>
+          <i className="emblem fa-brands fa-bootstrap"></i>
+          <i className="emblem fa-brands fa-python"></i>
+          <i className="emblem fa-brands fa-sass"></i>
+                  <h5 className="myskills my-3">Languages & Tools:</h5>
                   <p>
                     JavaScript, React, Redux, Node.js, HTML, CSS, SASS, GitHub,
                     GitBash, Devtools, TypeScript, AWS, Heroku, Django,
@@ -86,7 +94,7 @@ function Skill() {
                   </h5>
                   <div className="container my-5">
                     <div className="row align-items-center text-align center">
-                      <div className="rest Rant">
+                      <div className="restRant">
                         <a href={"https://restaurantsrants.herokuapp.com/" } >
                           <img
                             src={require("../images/rant.png")}
@@ -402,7 +410,7 @@ function Skill() {
             </div>
           </div>
         </div>
-      </div>
+      
     </motion.div>
   );
 }

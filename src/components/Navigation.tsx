@@ -3,35 +3,41 @@ import { NavLink } from "react-router-dom";
 
 function Navigation() {
   return (
-    <div className="navigation ">
-      <nav className="navbar align-items navbar-expand navbar-dark bg-dark ">
-        <div className="container  ">          
-          <h3 className="font-weight-light text-center">Ryan's Profolio</h3>          
-          <div>
-            <ul className="navbar-nav ml-auto">
-              <li className="nav-item">
-                <NavLink className="nav-link" to="/">
-                  <i className="fas fa-home" style={{ fontSize: "27px" }}></i>
-                  <span className="sr-only">(current)</span>
-                </NavLink>
-              </li>
-              <li className="nav-item">
-                <NavLink className="nav-link" to="/skills">
-                  <i className="fab fa-github" style={{ fontSize: "27px" }}></i>
-                </NavLink>
-              </li>
-              <li className="nav-item">
-                <NavLink className="nav-link" to="/contact">
-                  <i
-                    className="fab fa-linkedin-in"
-                    style={{ fontSize: "27px" }}
-                  ></i>
-                </NavLink>
-              </li>
-            </ul>
-          </div>
+    <div className="navigation navbar align-items navbar-expand navbar-dark  ">
+      <div className="container  ">
+        <h1
+          className="font-weight-light text-center"
+          style={{ fontSize: "40px" }}
+        >
+          Ryan's Profolio
+        </h1>
+        <div>
+          <ul className="navbar-nav ml-auto">
+            <li className="nav-item">
+              <NavLink className="nav-link" to="/">
+                <i className="home" style={{ fontSize: "20px" }}>
+                  Home
+                </i>
+                <span className="sr-only">(current)</span>
+              </NavLink>
+            </li>
+            <li className="nav-item">
+              <NavLink className="nav-link" to="/skills">
+                <i className="projects" style={{ fontSize: "20px" }}>
+                  Projects
+                </i>
+              </NavLink>
+            </li>
+            <li className="nav-item">
+              <NavLink className="nav-link" to="/contact">
+                <i className="contact" style={{ fontSize: "20px" }}>
+                  Contact
+                </i>
+              </NavLink>
+            </li>
+          </ul>
         </div>
-      </nav>
+      </div>
     </div>
   );
 }
