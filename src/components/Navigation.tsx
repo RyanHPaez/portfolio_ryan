@@ -24,7 +24,7 @@ function Navigation() {
             <li className="nav-item">
               <NavLink className="nav-link" to="/skills">
                 <i className="projects" style={{ fontSize: "20px" }}>
-                  Projects
+                 Resume
                 </i>
               </NavLink>
             </li>
