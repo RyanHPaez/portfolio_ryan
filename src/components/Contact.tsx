@@ -23,18 +23,20 @@ function Contact() {
     >
       <div className="contact my-5">
         <div className="row align-items-center">
-          <div className="img col-sm-12  p-1 ">
-            <a href={"https://www.linkedin.com/in/ryan-paez/"}>
-              <img
-                className="rounded-circle my-3"
-                src={require("../images/Me.jpg")}
-                alt="me"
-              />
-            </a>
-            <h5 className="font-weight-light text-center mb-5">Click me!</h5>
-            <div className="col-sm-12"></div>
-          </div>
+          <a href={"https://www.linkedin.com/in/ryan-paez/"}>
+            <img
+              className="rounded-circle my-3"
+              src={require("../images/Me.jpg")}
+              alt="me"
+              id="me"
+            />
+          </a>
+          <h5 className="font-weight-light text-center mb-5" id="clickme">
+            Click me!
+          </h5>
+          
           <div className="about ">
+          <div className="aboutmove mt-5" id="aboutmove">
             <h1 className="font-weight-light text-center mb-3">
               Contact Me through LinkedIn
             </h1>
@@ -119,11 +121,10 @@ function Contact() {
                 </NavLink>
               </i>
             </NavLink>
-            <p>Email: ryanhpaez@gmail.com       Phone: 424-200-8351</p>
-           
+            <p>Email: ryanhpaez@gmail.com Phone: 424-200-8351</p>
           </div>
         </div>
-      </div>
+      </div></div>
     </motion.div>
   );
 }

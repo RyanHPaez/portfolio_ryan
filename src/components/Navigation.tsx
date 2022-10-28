@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 
 function Navigation() {
   return (
-    <div className="navigation navbar align-items-center navbar-expand  ">
+    <div className="navigation  navbar-expand  ">
       <div className="container  ">
         <h1
           className="font-weight-light text-center"
@@ -11,8 +11,9 @@ function Navigation() {
         >
           Ryan's Profolio
         </h1>
-        <div>
-          <ul className="navbar-nav ml-auto">
+        </div>
+        <div className="center">
+          <ul className="navbar nav">
             <li className="nav-item">
               <NavLink className="nav-link" to="/">
                 <i className="home" style={{ fontSize: "20px" }}>
@@ -36,9 +37,9 @@ function Navigation() {
               </NavLink>
             </li>
           </ul>
-        </div>
+        </div> 
       </div>
-    </div>
+    
   );
 }
 

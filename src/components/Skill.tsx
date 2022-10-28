@@ -21,7 +21,7 @@ function Skill() {
         },
       }}
     >      
-            <div className="container my-5">
+            <div className="container my-5" id="container">
               <div className="row my-5">                
                     <a href={"https://github.com/RyanHPaez?tab=repositories"}>
                       <i
