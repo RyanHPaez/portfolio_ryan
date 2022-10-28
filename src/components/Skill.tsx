@@ -25,7 +25,7 @@ function Skill() {
               <div className="row my-5">                
                     <a href={"https://github.com/RyanHPaez?tab=repositories"}>
                       <i
-                        className="fab fa-github"
+                        className="fab fa-github mt-5"
                         style={{ fontSize: "88px" }}
                       />
                       <h4 className="my-3">My GitHub!</h4>
