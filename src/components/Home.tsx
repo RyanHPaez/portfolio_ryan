@@ -22,7 +22,7 @@ function Home() {
       }}
     >
       <div className="container ">
-        <div className="Image my-5 ">
+        <div className="Image my-5">
           <img
             src={require("../images/dv.jpg")}
             alt="Daddy and Valerie"
@@ -36,9 +36,7 @@ function Home() {
               Hi, My name is Ryan
             </h1>
             <p className="text-center mx-4 " >
-              Currently an Aircraft Technician at Western Jet Aviation. Love
-              being a Tech but I am getting older and I dont know how much
-              longer before my body can not handle working physically anymore.
+              Currently working on my own projects I have done in the past to make myself and them better. 
               My greatest accomplishment is having great understanding and
               compassion working within a team. I have managed other employees
               with great leadership skills. Why am I choosing to go into this

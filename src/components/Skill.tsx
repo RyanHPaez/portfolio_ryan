@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 function Skill() {
   return (
     <motion.div
-      className="resume bg-dark my"
+      className="resume "
       initial={{ opacity: 0, scale: 0.5 }}
       animate={{ opacity: 1, scale: 1 }}
       transition={{
@@ -20,14 +20,9 @@ function Skill() {
           restDelta: 0.001,
         },
       }}
-    >
-      <div className="row my-5">
-        
-          <div className="col-sm-12 my-3  text-center">
-            <div className="container">
-              <div className="row">
-                <div className="col-sm-12 text-center">
-                  <div className="col-sm-12  my-4 text-center">
+    >      
+            <div className="container my-5">
+              <div className="row my-5">                
                     <a href={"https://github.com/RyanHPaez?tab=repositories"}>
                       <i
                         className="fab fa-github"
@@ -53,9 +48,8 @@ function Skill() {
                   </p>
                   <h5>Databases: </h5>
                   <p>MongoDB, PostgreSQL, SQL</p>
-                </div>
-              </div>
-              <div className=" ">
+                
+              
                 <div className=" col-sm-12   ">
                   <h1 className="font-weight-light text-center mb-3 ">
                     SUMMARY
@@ -123,13 +117,14 @@ function Skill() {
                     https://sweepstakewinner.herokuapp.com/
                   </h5>
                   <div className="container my-5">
-                    <div className="row align-items-center text-align center">
-                      <div className="sweepstake ">
+                    <div className="row  text-align center">
+                      <div className="sweepstake text-center ">
                         <a href={"https://sweepstakewinner.herokuapp.com/"}>
                           <img
                             src={require("../images/sweepstake.png")}
                             id="wm"
                             alt="sweepstakes"
+                            className="center"
                           ></img>
                         </a>
                       </div>
@@ -160,6 +155,7 @@ function Skill() {
                             src={require("../images/musicsearch.png")}
                             id="wm"
                             alt="musicApi"
+                            className="center"
                           ></img>
                         </a>
                       </div>
@@ -192,6 +188,7 @@ function Skill() {
                             src={require("../images/whackamole.png")}
                             id="wm"
                             alt="whackamole"
+                            className="center"
                           ></img>
                         </a>
                       </div>
@@ -406,10 +403,10 @@ function Skill() {
                   </h5>
                   <h6 className="text-left">Real Estate Agent</h6>
                 </div>
+              
               </div>
-            </div>
-          </div>
-        </div>
+            
+        
       
     </motion.div>
   );

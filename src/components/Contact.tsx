@@ -69,6 +69,7 @@ function Contact() {
                       src={require("../images/sweepstake.png")}
                       id="wm"
                       alt="sweepstakes"
+                      className="center"
                     ></img>
                   </a>
                 </div>
@@ -84,6 +85,7 @@ function Contact() {
                       src={require("../images/musicsearch.png")}
                       id="wm"
                       alt="musicApi"
+                      className="center"
                     ></img>
                   </a>
                 </div>
@@ -99,6 +101,7 @@ function Contact() {
                       src={require("../images/whackamole.png")}
                       id="wm"
                       alt="whackamole"
+                      className="center"
                     ></img>
                   </a>
                 </div>
@@ -116,8 +119,8 @@ function Contact() {
                 </NavLink>
               </i>
             </NavLink>
-            <p>Email: ryanhpaez@gmail.com</p>
-            <p>Phone: 424.200.8351</p>
+            <p>Email: ryanhpaez@gmail.com       Phone: 424-200-8351</p>
+           
           </div>
         </div>
       </div>

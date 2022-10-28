@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 
 function Navigation() {
   return (
-    <div className="navigation navbar align-items navbar-expand navbar-dark  ">
+    <div className="navigation navbar align-items-center navbar-expand  ">
       <div className="container  ">
         <h1
           className="font-weight-light text-center"
