@@ -8,16 +8,12 @@ body {
     column-width: 10%;
     margin: auto;
     text-align: center;
-    overflow-x: hidden;
-  
+    overflow-x: hidden;  
   text-align: center;
     
   }
-  .App {
-
-     
+  .App {     
      flex-direction: column;
-     
      align-items: center;    
      text-align: center;
  }
@@ -69,17 +65,17 @@ li {
 }
 
 .resume {
-    box-shadow: 0 0 10px 10px  #005878;
+  box-shadow: 0px 5px 25px 35px #005878;
     color:rgb(163, 255, 3);
     text-shadow: 1px 1px 2px rgb(0, 85, 255), 0 0 1em rgb(171, 171, 171), 0 0 0.2em rgb(171, 171, 171);  
     background: linear-gradient(90deg ,#01574a, #005878);
     background-size: 1500% 1500%;
     animation: Gradient 10s ease infinite;
     position: relative;
-    padding:0;
-    margin:0px;
+    padding:10px;
+    margin:10px;
     transform-style: preserve-3d;
-border-radius: 25px;
+
 }
 
 img {
@@ -93,7 +89,9 @@ img:hover {
 
  #dv {
   height: auto;
-  width: 40%;
+  width: 38%;
+  margin-top: 100px;
+  margin-bottom: 100px;
   position: relative;
   animation-name: dv;
   animation-duration: 1.5s;
@@ -257,7 +255,7 @@ i.fab fa-js-square{
   }
 
  #wm{
-  display: flex;
+  display: block;
   height: auto;
   width: 100%;
  }
@@ -280,7 +278,7 @@ margin-right: auto;
  .navigation{
   border-radius: 0 0 25px 25px;
   width: 95%;  
-  box-shadow: 0 0 10px 10px #005878;
+  box-shadow: 0px 5px 25px 35px #005878;
   margin-left: auto;
   margin-right: auto;
   background-color: #005878;    
@@ -289,7 +287,7 @@ margin-right: auto;
  .about{
   border-radius: 25px;
   width: 95%;
-  box-shadow: 0 0 10px 10px #005878;
+  box-shadow: 0px 5px 25px 35px #005878;
   color:rgb(163, 255, 3);
   text-shadow: 1px 1px 2px rgb(0, 85, 255), 0 0 1em rgb(171, 171, 171), 0 0 0.2em rgb(171, 171, 171);  
   margin-left: auto;

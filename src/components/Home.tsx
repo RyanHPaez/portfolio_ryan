@@ -5,7 +5,7 @@ import "./styles.css";
 function Home() {
   return (
     <motion.div
-      className="home "
+      className="home"
       initial={{ opacity: 0, scale: 0.5 }}
       animate={{ opacity: 1, scale: 1 }}
       transition={{
@@ -21,7 +21,7 @@ function Home() {
         },
       }}
     >
-      <div className="container ">
+      <div className="container">
         <div className="Image my-5">
           <img
             src={require("../images/dv.jpg")}

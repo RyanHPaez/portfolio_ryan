@@ -83,11 +83,10 @@ function Skill() {
                     PROFESSIONAL PROJECTS
                   </h1>
                   <h3 className="text-center">
-                    Rest Rant -  Full Stack
-                    https://restaurantsrants.herokuapp.com/
+                    Rest Rant 
                   </h3>
                   <div className="container my-5">
-                    <div className="row align-items-center text-align center">
+                    <div className="row align-items-center text-center">
                       <div className="restRant">
                         <a href={"https://restaurantsrants.herokuapp.com/" } >
                           <img
@@ -113,11 +112,10 @@ function Skill() {
                   </ul>
 
                   <h3 className="text-center">
-                    SweepStake Winner! - 
-                    https://sweepstakewinner.herokuapp.com/
+                    SweepStake Winner! 
                   </h3>
                   <div className="container my-5">
-                    <div className="row  text-align center">
+                    <div className="row align-items-center text-center">
                       <div className="sweepstake text-center ">
                         <a href={"https://sweepstakewinner.herokuapp.com/"}>
                           <img
@@ -144,11 +142,10 @@ function Skill() {
                     </li>
                   </ul>
                   <h3 className="text-center">
-                    Music API - 
-                    https://findmusicforyou.herokuapp.com/
+                    Music API 
                   </h3>
                   <div className="container my-5">
-                    <div className="row align-items-center text-align center">
+                    <div className="row align-items-center text-center">
                       <div className="music ">
                         <a href={"https://findmusicforyou.herokuapp.com/"}>
                           <img
@@ -177,11 +174,10 @@ function Skill() {
                     </li>
                   </ul>
                   <h3 className="text-center">
-                    Whack-A-Mole - 
-                    https://ryanswhackamole.herokuapp.com/
+                    Whack-A-Mole 
                   </h3>
                   <div className="container my-5">
-                    <div className="row align-items-center text-align center">
+                    <div className="row align-items-center text-center">
                       <div className="whack ">
                         <a href={"https://ryanswhackamole.herokuapp.com/"}>
                           <img
@@ -195,9 +191,9 @@ function Skill() {
                     </div>
                   </div>
                   
-                    <h5 className="text-center">
-                      Portfolio - Freelance | ryanpaezportfolio.herokuapp.com/
-                    </h5>
+                    <h3 className="text-center">
+                      Portfolio 
+                    </h3>
                     <ul>
                       <li className="text-left">
                         Development of a portfolio piece web application to show
