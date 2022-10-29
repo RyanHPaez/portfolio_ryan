@@ -142,6 +142,16 @@ img:hover {
   to {bottom: 0px;}
 }
 
+#emailMove{
+  position: relative;
+  animation-name: emailMove;
+  animation-duration: 3s;
+}
+@keyframes emailMove {
+  from {top: -1500px;}
+  to {top: 0px;}
+}
+
 .about p{
     text-shadow: 1px 1px 2px rgb(0, 85, 255), 0 0 1em rgb(171, 171, 171), 0 0 0.2em rgb(171, 171, 171); 
     font-size: 94px;
@@ -252,9 +262,7 @@ i.fab fa-js-square{
  .center {
   display: block;
   margin-left: auto;
-  margin-right: auto;
-  
-  
+  margin-right: auto;  
  }
 
  .emblem {
@@ -291,7 +299,9 @@ margin-right: auto;
 
  .Contact{
   height: auto;
-  width: 100%;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
   
  }
  .home{
@@ -309,4 +319,64 @@ margin-right: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+input{
+  border-radius: 5px;
+  
+}
+
+form {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 90%;
+  font-size: 20px;
+  border-radius: 5px;
+
+  }
+  textarea {
+    max-width: 100%;
+    min-width: 100%;
+    width: 100%;
+    max-height: 100px;
+    min-height: 100px;
+    padding: 7px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid rgb(220, 220, 220);
+    
+  }
+  label {
+    margin-top: 1rem;
+    border-radius: 5px;
+  }
+  #submit{
+    margin-top: 20px;
+  }
+  
+  .email{
+    position: relative;
+    display: inline-flex;
+    width: 750px;
+    max-height: 100%;
+    min-height: auto;
+    max-width: 45%;
+    min-width: 45%;
+    text-align: center;
+  }
+
+  input[type="submit"] {
+    margin-top: 2rem;
+    cursor: pointer;
+    background: rgb(249, 105, 14);
+    color: white;
+    border: none;
+  }
+  input:hover {
+    box-shadow: 0 0 10px 10px rgb(163, 255, 3);
+}
+
+.required-field {
+  color: red;
 }
