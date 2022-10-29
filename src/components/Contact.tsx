@@ -40,7 +40,7 @@ function Contact() {
           <div className="about ">
             <div className="aboutmove mt-5" id="aboutmove">
               <h1 className="font-weight-light text-center mb-3">
-                Contact Me through LinkedIn
+                Contact Me through LinkedIn or my Email below
               </h1>
               <p className="text-center mx-5">
                 Ready for my next journey in life to start as a Full Stack
@@ -50,15 +50,13 @@ function Contact() {
 
               <div className="email justify-content-center">
                 <div
-                  className="emailmove justify-content-center"
+                  className="emailmove justify-content-center mb-3"
                   id="emailMove"
                 >
                   <ContactUs />
                 </div>
               </div>
-<div className="phone mt-3">
-              <p> Contact: 424-200-8351</p>
-              </div>
+
             </div>
           </div>
         </div>

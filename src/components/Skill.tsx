@@ -82,10 +82,10 @@ function Skill() {
                   <h1 className="font-weight-light text-center my-3 mb-3">
                     PROFESSIONAL PROJECTS
                   </h1>
-                  <h5 className="text-center">
-                    Resturant Rant - Cal State LongBeach & Freelance Full Stack|
+                  <h3 className="text-center">
+                    Rest Rant -  Full Stack
                     https://restaurantsrants.herokuapp.com/
-                  </h5>
+                  </h3>
                   <div className="container my-5">
                     <div className="row align-items-center text-align center">
                       <div className="restRant">
@@ -112,10 +112,10 @@ function Skill() {
                     </li>
                   </ul>
 
-                  <h5 className="text-center">
-                    SweepStake Winner! - Freelance |
+                  <h3 className="text-center">
+                    SweepStake Winner! - 
                     https://sweepstakewinner.herokuapp.com/
-                  </h5>
+                  </h3>
                   <div className="container my-5">
                     <div className="row  text-align center">
                       <div className="sweepstake text-center ">
@@ -143,10 +143,10 @@ function Skill() {
                       to deploy on web.
                     </li>
                   </ul>
-                  <h5 className="text-center">
-                    Music API - Freelance |
+                  <h3 className="text-center">
+                    Music API - 
                     https://findmusicforyou.herokuapp.com/
-                  </h5>
+                  </h3>
                   <div className="container my-5">
                     <div className="row align-items-center text-align center">
                       <div className="music ">
@@ -176,10 +176,10 @@ function Skill() {
                       translating thoughtful design with code.
                     </li>
                   </ul>
-                  <h5 className="text-center">
-                    Whack-A-Mole - Cal State Long Beach |
+                  <h3 className="text-center">
+                    Whack-A-Mole - 
                     https://ryanswhackamole.herokuapp.com/
-                  </h5>
+                  </h3>
                   <div className="container my-5">
                     <div className="row align-items-center text-align center">
                       <div className="whack ">
