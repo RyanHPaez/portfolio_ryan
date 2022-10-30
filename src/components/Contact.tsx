@@ -56,7 +56,6 @@ function Contact() {
                   <ContactUs />
                 </div>
               </div>
-
             </div>
           </div>
         </div>

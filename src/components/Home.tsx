@@ -23,12 +23,14 @@ function Home() {
     >
       <div className="container">
         <div className="Image my-5">
-          <img
-            src={require("../images/dv.jpg")}
-            alt="Daddy and Valerie"
-            id="dv"
-            className="center"
-          ></img>
+          <a href={"https://www.facebook.com/solo.snail"}>
+            <img
+              src={require("../images/dv.jpg")}
+              alt="Daddy and Valerie"
+              id="dv"
+              className="center"
+            ></img>
+          </a>
         </div>
 
         <div className="about">
