@@ -5,6 +5,7 @@ function Navigation() {
   return (
     <div className="navigation  navbar-expand  ">
       <div className="container  ">
+      <div className="center">
         <h1
           className="font-weight-light text-center"
           style={{ fontSize: "40px" }}
@@ -12,8 +13,8 @@ function Navigation() {
           Ryan's Profolio
         </h1>
         </div>
-        <div className="center">
-          <ul className="navbar nav">
+        
+          <ul className="navbar nav list-inline mx-auto justify-content-center">
             <li className="nav-item">
               <NavLink className="nav-link" to="/">
                 <i className="home" style={{ fontSize: "20px" }}>
