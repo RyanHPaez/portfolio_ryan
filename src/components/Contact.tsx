@@ -27,7 +27,7 @@ function Contact() {
         <div className="row justify-content-center">
           <a href={"https://www.linkedin.com/in/ryan-paez/"}>
             <img
-              className="rounded-circle my-3"
+              className="rounded-circle my-3 mt-5"
               src={require("../images/Me.jpg")}
               alt="me"
               id="me"

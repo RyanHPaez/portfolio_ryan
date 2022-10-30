@@ -29,9 +29,9 @@ body {
   }
   /* ============= Animation background ========= */
   .background {
-    background: linear-gradient(90deg ,#ffffff, #dcf3fb);
-    background-size: 1500% 1500%;
-    animation: Gradient 30s ease infinite;
+    background: linear-gradient(90deg ,#ffffff, #000000);
+    background-size: 30000% 3000%;
+    animation: Gradient 60s ease infinite;
     position: relative;
     height: auto;
     width: 100%;
@@ -69,14 +69,9 @@ li {
   box-shadow: 0px 5px 25px 35px #005878;
     color:rgb(163, 255, 3);
     text-shadow: 1px 1px 2px rgb(0, 85, 255), 0 0 1em rgb(171, 171, 171), 0 0 0.2em rgb(171, 171, 171);  
-    background: linear-gradient(90deg ,#01574a, #005878);
-    background-size: 1500% 1500%;
-    animation: Gradient 10s ease infinite;
-    position: relative;
-    padding:10px;
-    margin:10px;
-    transform-style: preserve-3d;
-
+    background: #005878;    
+    position: relative;  
+    
 }
 
 img {
@@ -96,14 +91,17 @@ img:hover {
   position: relative;
   animation-name: dv;
   animation-duration: 1.5s;
- 
+  animation: dv 4s; 
  }
  @keyframes dv {
   from {top: -1500px;}
   to {top: 0px;}
+  0% { opacity: 0; }
+  100% { opacity: 1; }
 }
 
 #me{
+  
   position: relative;
   animation-name: me;
   animation-duration: 1.5s;
@@ -113,6 +111,7 @@ img:hover {
   to {left: 0px;}
 }
 #clickme{
+  padding: 20px;
   position: relative;
   animation-name: clickme;
   animation-duration: 1.5s;
@@ -146,10 +145,13 @@ img:hover {
   position: relative;
   animation-name: emailMove;
   animation-duration: 3s;
+  animation: emailMove 5s;
 }
 @keyframes emailMove {
-  from {top: -1500px;}
+  from {top: -2800px;}
   to {top: 0px;}
+  0% { opacity: 0; }
+  100% { opacity: 1; }
 }
 
 .about p{
