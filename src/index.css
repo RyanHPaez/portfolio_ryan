@@ -1,5 +1,5 @@
 body {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Satoshi';
   font-size: 20px;
     box-sizing: border-box;
     min-height: auto;
@@ -29,12 +29,12 @@ body {
   }
   /* ============= Animation background ========= */
   .background {
-    background: linear-gradient(90deg ,#ffffff, #000000);
+    background: linear-gradient(90deg ,#303030, #000000);
     background-size: 30000% 3000%;
     animation: Gradient 60s ease infinite;
     position: relative;
     height: auto;
-    width: 100%;
+    width: 100vw;
     overflow: hidden;
     padding:0;
     margin:0px;
@@ -389,4 +389,19 @@ form {
 
 .required-field {
   color: red;
+}
+
+.projects{
+  color:#ffffff;
+  font-style: normal
+}
+
+.home{
+  color:#ffffff;
+  font-style: normal
+}
+
+.contact{
+  color:#ffffff;
+  font-style: normal
 }
